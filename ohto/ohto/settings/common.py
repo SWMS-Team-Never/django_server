@@ -31,6 +31,8 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '.ec2-43-200-92-0.ap-northeast-2.compute.amazonaws.com',
     '.ohto.kr',
+    'localhost',
+    '127.0.0.1',
 ]
 
 
