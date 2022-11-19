@@ -5,10 +5,10 @@ ENV PYTHONUNBUFFERED 1
 RUN apt-get -y update
 RUN apt-get -y install vim
 
-RUN mkdir /srv/docker-server
-ADD . /srv/docker-server
+RUN mkdir /srv/django_server
+ADD . /srv/django_server
 
-WORKDIR /srv/docker-server
+WORKDIR /srv/django_server
 
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt

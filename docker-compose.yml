@@ -9,7 +9,7 @@ services:
         ports:
           - "80:80"
         volumes:
-          - ./ohto:/srv/docker-server
+          - ./ohto:/srv/django_server
           - ./log:/var/log/nginx
         depends_on:
           - django
@@ -36,7 +36,7 @@ services:
         restart: always
         command: uwsgi --ini uwsgi.ini
         volumes:
-          - ./ohto:/srv/docker-server
+          - ./ohto:/srv/django_server
           - ./log:/var/log/uwsgi
         depends_on:
           - mysql_db
