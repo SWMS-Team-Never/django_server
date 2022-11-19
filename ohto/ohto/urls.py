@@ -32,7 +32,6 @@ urlpatterns = [
     path('api/schema/', SpectacularAPIView.as_view(), name='schema'),
     path('api/schema/swagger-ui/', SpectacularSwaggerView.as_view(url_name='schema'), name='swagger-ui'),
     path('api/schema/redoc/', SpectacularRedocView.as_view(url_name='schema'), name='redoc'),
-    path('music/', include('search_music.urls'))
 ]
 #NOTE: django는 production안에서 직접 미디어파일, static파일 서빙하는 것을 권장 하지 않는다.
 if settings.DEBUG:
