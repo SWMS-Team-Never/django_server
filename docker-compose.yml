@@ -2,9 +2,9 @@ version: '3'
 services:
 
     nginx:
-        container_name: nginx1
+        container_name: nginx
         build: ./nginx
-        image: docker/nginx
+        image: django_server/nginx
         restart: always
         ports:
           - "80:80"
@@ -30,9 +30,9 @@ services:
         - ./ohto/dbdata:/var/lib/mysql
 
     django:
-        container_name: django1
+        container_name: django
         build: ./ohto
-        image: docker/django
+        image: django_server/django
         restart: always
         command: uwsgi --ini uwsgi.ini
         volumes:
