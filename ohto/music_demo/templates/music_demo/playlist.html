@@ -1,0 +1,52 @@
+{% extends 'music_demo/layout.html' %}
+{% load django_bootstrap5 %}
+{% block content %}
+<div class='container'>
+    {{playlist.title}}
+    <div class='row'>
+        <div class='col-sm-6 offset-sm-3'>
+            
+                <div class='container'>
+
+                    <div class='row'>
+                        {% for key,song in songs.items %}
+                            <div class='col-sm-3'>
+                                <input class="form-check-input" type="checkbox" id="{{song.id}}" value="" aria-label="...">
+                              </div>
+                            <div class='col-sm-3'>
+                                <p>{{song.artist}}</p>
+                            </div>
+                            <div class='col-sm-6'>
+                                {{song.title}}
+                            </div>
+                        {% endfor %}
+                    </div>
+                    <button class="btn btn-primary" id="{{playlist.id}}" name="delete_button">Delete</button>
+                </div>
+            
+        </div>
+    </div>
+</div>
+{% endblock content %}
+{% block script %}
+    <script>
+        const delete_button = document.querySelector("[name=delete_button]");
+        async function delete_songs(e){
+            let song_list=[];
+            const delete_songs_el = document.querySelectorAll('.form-check-input:checked');
+            delete_songs_el.forEach((song)=>song_list.push(song.id));
+            const playlist_id = e.target.id
+            await fetch(`http://127.0.0.1:8000/template/playlist/${playlist_id}/`,{
+                method:'POST',
+                headers:{"Content-Type":'application/json',"X-CSRFToken": '{{csrf_token}}'},
+                body:JSON.stringify({"playlist_id":playlist_id,"selected_songs":song_list,"delete_option":1})
+            }
+            ).then((res)=>{
+                if(res.redirected){
+                    window.location.href=res.url;
+                }
+            })
+        };
+        delete_button.addEventListener("click",delete_songs);
+    </script>
+{% endblock script %}

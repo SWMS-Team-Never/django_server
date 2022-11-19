@@ -1,0 +1,16 @@
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - django
+  - django-extensions
+  - django-debug-toolbar
+  - django-bootstrap5
+  - djangorestframework
+  - django-cors-headers
+  - pillow
+  - mysqlclient
+  - pandas
+  - gunicorn
+  - djangorestframework_simplejwt

@@ -1,0 +1,13 @@
+{% extends 'music_demo/layout.html' %}
+{% load django_bootstrap5 %}
+{% block content %}
+    <form action='template/playlist_create' method='GET'>
+        <div class="form-group">
+            <label for="title">Playlist Title</label>
+            <input name="title" class="form-control" id="title"  placeholder="Title">
+            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+{% endblock content %}

@@ -1,0 +1,79 @@
+{% load  static django_bootstrap5 %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% comment %}
+    아무것도 없으면 깃에서 폴더는 관리대상이 아니므로 포함시키지 않는다
+    폴더 안에 최소한의 파일은 입력할것  
+    {% endcomment %}
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram clone practice</title>
+    <link rel="stylesheet" href="{% static "bootstrap-5.2.1-dist/css/bootstrap.min.css" %}"/>
+    <script src="{% static 'bootstrap-5.2.1-dist/js/bootstrap.bundle.min.js' %}"></script>
+
+</head>
+<body>
+    <header class='container'>
+        <div class='row'>
+            <div class="d-flex flex-column flex-md-row align-items-center pb-1 mb-4 border-bottom">
+              <a href="/template/" class="d-flex align-items-center text-dark text-decoration-none">
+                <img width="142" height="99" src="{% static "melon.png" %}" alt="Melon">
+              </a>
+          
+              <nav class="navbar d-flex justify-content-between mt-2 mt-md-0 ms-md-auto">
+                <div class='me-2'>
+                  <form action="{% url 'template_song_list' %}" method='GET' class="form-inline">
+                    <div class='form-group mr-1' style="display:flex;flex-direction:row;">
+                      <input name='search' type="search" id="form1" class="form-control mr-sm-2" placeholder="Search" aria-label="Search" />
+                      <button type="submit" class="btn btn-outline-success ">
+                        <i class="fas fa-search"></i>
+                      </button>
+                    </div>
+                  </form>
+                </div>
+                <a class="me-3 py-2 text-dark text-decoration-none" href="{% url 'template/playlist_list' %}">My Playlists</a>
+                {% if user.pk %}
+                  <a class="me-3 py-2 text-dark text-decoration-none" href="{% url 'template_user_page' user_name=user.username %}">
+                    {% if user.avatar %}
+                      <img width=24 src="{{user.avatar.url}}"/>{{user.username|default:None}}
+                    {% else %}
+                      <svg width="24" height="24" data-jdenticon-value="{{user.username}}"></svg>{{user.username|default:None}}
+                    {% endif %}
+                    
+                  </a>
+                {% else %}
+                  <a href="{% url 'login' %}" class="me-3 py-2 text-dark text-decoration-none">Login</a>
+                {% endif %}
+              </nav>
+            </div>
+        </div>
+      </header>
+    {% if messages %}
+      {% for message in messages %}
+        <div class="alert alert-{{message.tag}}">
+            {{message}}
+        </div>
+      {% endfor %}
+    {% endif %}
+
+
+    {% block content %}
+
+    {% endblock content %}
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/jdenticon@3.2.0/dist/jdenticon.min.js" async
+        integrity="sha384-yBhgDqxM50qJV5JPdayci8wCfooqvhFYbIKhv0hTtLvfeeyJMJCscRfFNKIxt43M"
+        crossorigin="anonymous">
+    </script>
+
+  {% block script %}
+
+  {% endblock script %}
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+{% extends 'layout.html' %}
+{% block content %}
+    <div class='container'>
+        <div class='row'>
+            <div class='col-sm-3' style='text_align:center;'>
+                {% if not user.avatar %}
+                    <svg width="120" height="120" data-jdenticon-value="{{user.username}}" class='rounded-circle'></svg>
+                {% else %}
+                    <img width=48 src="{{user.avatar.url}}" class='rounded-circle'/>
+                {% endif %}
+            </div>
+            <div class='col-sm-9'>
+                {{user.username|default:None}}
+                <a href="{% url 'profile_edit' %}">Edit profile</a>
+            </div>
+            <div style='display:grid; justify-content:center; width:100%;'>
+                <a href="{% url 'logout' %}">
+                    <button class='btn-sm btn-secondary' style="">Logout</button>
+                </a>
+                
+            </div>
+            
+        </div>
+    </div>
+{% endblock content %}

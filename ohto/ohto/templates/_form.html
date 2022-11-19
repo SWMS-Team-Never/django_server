@@ -1,0 +1,18 @@
+{% comment %}
+    파일 이름에서 접두사로 _붙어 있는거는 모든 파일에 적용가능하다는의미이다
+{% endcomment %}
+{% load django_bootstrap5 %}
+
+<div class="card" >
+    <div class="card-body">
+        {% if form_title %}
+            <h2>{{form_title}}</h2>
+        {% endif %}
+        <form action = '' method='POST' enctype='multipart/form-data'>
+            {% csrf_token %}
+            {% bootstrap_form form %}
+            {% bootstrap_button submit_label|default:'Submit' button_type='submit'  %}
+            
+        </form>
+    </div>
+  </div>

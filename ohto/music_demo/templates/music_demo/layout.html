@@ -1,0 +1,63 @@
+{% extends 'layout.html' %}
+{% block content %}
+    {% if index %}
+      <div style="width:100%; display:flex; justify-content:center;">
+          <div style="display:flex; flex-direction:row; justify-content:space-between; width:40%;">
+              <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="topictag" data-bs-toggle="dropdown" aria-expanded="false">
+                  Topic Tag
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="topictag" id='topic_tag_ul'>
+                  <li><a class="dropdown-item" href="#">Action</a></li>
+                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                  <li><a class="dropdown-item" href="#">Something else here</a></li>
+                </ul>
+              </div>
+              <div class="dropdown">
+                  <button class="btn btn-secondary dropdown-toggle" type="button" id="mood_tag" data-bs-toggle="dropdown" aria-expanded="false">
+                    Mood Tag
+                  </button>
+                  <ul class="dropdown-menu" aria-labelledby="mood_tag" id='mood_tag_ul'>
+                    <li><a class="dropdown-item" href="#">Action</a></li>
+                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                  </ul>
+              </div>
+              <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="situation_tag" data-bs-toggle="dropdown" aria-expanded="false">
+                  Situation Tag
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="situation_tag" id='situation_tag_ul'>
+                  <li><a class="dropdown-item" href="#">Action</a></li>
+                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                  <li><a class="dropdown-item" href="#">Something else here</a></li>
+                </ul>
+              </div>
+          </div>
+      </div>
+    {% endif %}
+{% endblock content %}
+{% block script %}
+  {% if index %}
+      <script>
+          let is_index = true;
+          let mood_tags = [];
+          console.log(location.origin);
+          const LoadTagData = async () => {
+              //그 origin이 127.0.0.1과 같이 설정되면 cors이슈 발생하더라
+              await fetch("http://localhost:8000/static/song_tag/song_tag.json/")
+              .then((res) => res.json())
+              .then(data => {
+                console.log(data);
+                  for (const [key,val] of Object.entries(data)){
+                      const target = document.getElementById(`${key}_ul`);
+                      target.innerHTML = "";
+                      val.forEach(el => {
+                          target.innerHTML+=`<li><a class="dropdown-item" href="/template/filter_song/${key}/${el}/">${el}</a></li>`;
+                      })
+                  } })
+          };
+          LoadTagData();
+      </script>
+  {% endif %}
+{% endblock script %}

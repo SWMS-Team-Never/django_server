@@ -1,0 +1,2026 @@
+{"index": {"_index": "music", "_id": 1}}
+{"title": "밤편지", "artist": ["아이유(IU)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 2}}
+{"title": "모든 날, 모든 순간 (Every day, Every Moment)", "artist": ["폴킴"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 3}}
+{"title": "첫눈처럼 너에게 가겠다", "artist": ["에일리(Ailee)"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 4}}
+{"title": "벚꽃 엔딩", "artist": ["버스커 버스커"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 5}}
+{"title": "봄날", "artist": ["방탄소년단"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 6}}
+{"title": "Shape of You", "artist": ["Ed Sheeran"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 7}}
+{"title": "너를 만나", "artist": ["폴킴"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 8}}
+{"title": "너의 의미 (Feat. 김창완)", "artist": ["아이유(IU)"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 9}}
+{"title": "2002", "artist": ["Anne-Marie"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 10}}
+{"title": "I'm Not The Only One", "artist": ["Sam Smith"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 11}}
+{"title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지", "artist": ["AKMU(악뮤)"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 12}}
+{"title": "야생화", "artist": ["박효신"], "tag": "위로 기쁨 운동"}
+{"index": {"_index": "music", "_id": 13}}
+{"title": "흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야", "artist": ["장범준"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 14}}
+{"title": "주저하는 연인들을 위해", "artist": ["잔나비"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 15}}
+{"title": "Someone Like You", "artist": ["Adele"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 16}}
+{"title": "너의 모든 순간", "artist": ["성시경"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 17}}
+{"title": "비도 오고 그래서 (Feat. 신용재)", "artist": ["헤이즈 (Heize)"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 18}}
+{"title": "걱정말아요 그대", "artist": ["이적"], "tag": "위로 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 19}}
+{"title": "우주를 줄게", "artist": ["볼빨간사춘기"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 20}}
+{"title": "Beautiful", "artist": ["Crush"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 21}}
+{"title": "금요일에 만나요 (Feat. 장이정 of HISTORY)", "artist": ["아이유(IU)"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 22}}
+{"title": "선물", "artist": ["멜로망스(Melomance)"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 23}}
+{"title": "좋니", "artist": ["윤종신"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 24}}
+{"title": "거리에서", "artist": ["성시경"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 25}}
+{"title": "Lost Stars", "artist": ["Adam Levine"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 26}}
+{"title": "Dynamite", "artist": ["방탄소년단"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 27}}
+{"title": "널 사랑하지 않아", "artist": ["어반자카파"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 28}}
+{"title": "Love Yourself", "artist": ["Justin Bieber"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 29}}
+{"title": "너였다면", "artist": ["정승환"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 30}}
+{"title": "벌써 일년", "artist": ["브라운 아이즈"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 31}}
+{"title": "겁쟁이", "artist": ["버즈"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 32}}
+{"title": "여행", "artist": ["볼빨간사춘기"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 33}}
+{"title": "눈의 꽃", "artist": ["박효신"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 34}}
+{"title": "내사람 (Partner For Life)", "artist": ["SG워너비"], "tag": "연인 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 35}}
+{"title": "오랜 날 오랜 밤", "artist": ["AKMU(악뮤)"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 36}}
+{"title": "바람기억", "artist": ["나얼"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 37}}
+{"title": "팔레트 (Feat. G-DRAGON)", "artist": ["아이유(IU)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 38}}
+{"title": "Love poem", "artist": ["아이유(IU)"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 39}}
+{"title": "Blueming", "artist": ["아이유(IU)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 40}}
+{"title": "DNA", "artist": ["방탄소년단"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 41}}
+{"title": "사계 (Four Seasons)", "artist": ["태연 (TAEYEON)"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 42}}
+{"title": "봄 사랑 벚꽃 말고", "artist": ["하이포(HIGH4)", "아이유(IU)"], "tag": "이별 그리움 파티"}
+{"index": {"_index": "music", "_id": 43}}
+{"title": "CHEER UP", "artist": ["TWICE(트와이스)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 44}}
+{"title": "아로하", "artist": ["조정석"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 45}}
+{"title": "좋은 날", "artist": ["아이유(IU)"], "tag": "연인 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 46}}
+{"title": "소주 한 잔", "artist": ["임창정"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 47}}
+{"title": "사랑했나봐", "artist": ["윤도현"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 48}}
+{"title": "살다가", "artist": ["SG워너비"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 49}}
+{"title": "작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)", "artist": ["방탄소년단", "Halsey"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 50}}
+{"title": "Way Back Home", "artist": ["숀(SHAUN)"], "tag": "연인 신나는 파티"}
+{"index": {"_index": "music", "_id": 51}}
+{"title": "여수 밤바다", "artist": ["버스커 버스커"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 52}}
+{"title": "가시", "artist": ["버즈"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 53}}
+{"title": "Stay With Me", "artist": ["찬열 (CHANYEOL)", "펀치 (Punch)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 54}}
+{"title": "Paris In The Rain", "artist": ["Lauv"], "tag": "연인 편안한 공부"}
+{"index": {"_index": "music", "_id": 55}}
+{"title": "피 땀 눈물", "artist": ["방탄소년단"], "tag": "위로 신나는 운동"}
+{"index": {"_index": "music", "_id": 56}}
+{"title": "가을 아침", "artist": ["아이유(IU)"], "tag": "이별 슬픔 공부"}
+{"index": {"_index": "music", "_id": 57}}
+{"title": "사랑을 했다 (LOVE SCENARIO)", "artist": ["iKON"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 58}}
+{"title": "비", "artist": ["폴킴"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 59}}
+{"title": "나만 안되는 연애", "artist": ["볼빨간사춘기"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 60}}
+{"title": "One Call Away", "artist": ["Charlie Puth"], "tag": "당당한 편안한 휴식"}
+{"index": {"_index": "music", "_id": 61}}
+{"title": "YOUTH", "artist": ["Troye Sivan"], "tag": "이별 기쁨 운동"}
+{"index": {"_index": "music", "_id": 62}}
+{"title": "에잇(Prod.&Feat. SUGA of BTS)", "artist": ["아이유(IU)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 63}}
+{"title": "좋다고 말해", "artist": ["볼빨간사춘기"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 64}}
+{"title": "꽃송이가", "artist": ["버스커 버스커"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 65}}
+{"title": "다시 사랑한다 말할까", "artist": ["김동률"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 66}}
+{"title": "빨간 맛 (Red Flavor)", "artist": ["Red Velvet (레드벨벳)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 67}}
+{"title": "bad guy", "artist": ["Billie Eilish"], "tag": "당당한 편안한 공부"}
+{"index": {"_index": "music", "_id": 68}}
+{"title": "너랑 나", "artist": ["아이유(IU)"], "tag": "당당한 신나는 휴식"}
+{"index": {"_index": "music", "_id": 69}}
+{"title": "Thinking Out Loud", "artist": ["Ed Sheeran"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 70}}
+{"title": "Attention", "artist": ["Charlie Puth"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 71}}
+{"title": "뚜두뚜두 (DDU-DU DDU-DU)", "artist": ["BLACKPINK"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 72}}
+{"title": "마음", "artist": ["아이유(IU)"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 73}}
+{"title": "Lucky Strike", "artist": ["Maroon 5"], "tag": "당당한 편안한 휴식"}
+{"index": {"_index": "music", "_id": 74}}
+{"title": "불장난", "artist": ["BLACKPINK"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 75}}
+{"title": "어디에도", "artist": ["엠씨더맥스(M.C the MAX)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 76}}
+{"title": "이 소설의 끝을 다시 써보려 해", "artist": ["한동근"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 77}}
+{"title": "오늘부터 우리는 (Me gustas tu)", "artist": ["여자친구(GFRIEND)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 78}}
+{"title": "바람이 분다", "artist": ["이소라"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 79}}
+{"title": "내가 저지른 사랑", "artist": ["임창정"], "tag": "연인 슬픔 운동"}
+{"index": {"_index": "music", "_id": 80}}
+{"title": "TT", "artist": ["TWICE(트와이스)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 81}}
+{"title": "불타오르네 (FIRE)", "artist": ["방탄소년단"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 82}}
+{"title": "Sugar", "artist": ["Maroon 5"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 83}}
+{"title": "Snowman", "artist": ["Sia"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 84}}
+{"title": "마지막처럼", "artist": ["BLACKPINK"], "tag": "당당한 기쁨 운동"}
+{"index": {"_index": "music", "_id": 85}}
+{"title": "그 중에 그대를 만나", "artist": ["이선희"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 86}}
+{"title": "또 다시 사랑", "artist": ["임창정"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 87}}
+{"title": "숨", "artist": ["박효신"], "tag": "위로 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 88}}
+{"title": "두 사람", "artist": ["성시경"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 89}}
+{"title": "안녕", "artist": ["폴킴"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 90}}
+{"title": "Marry You", "artist": ["Bruno Mars"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 91}}
+{"title": "지나오다", "artist": ["닐로(Nilo)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 92}}
+{"title": "Havana (Feat. Young Thug)", "artist": ["Camila Cabello"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 93}}
+{"title": "FAKE LOVE", "artist": ["방탄소년단"], "tag": "당당한 신나는 공부"}
+{"index": {"_index": "music", "_id": 94}}
+{"title": "You Are My Everything", "artist": ["거미"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 95}}
+{"title": "아무노래", "artist": ["지코 (ZICO)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 96}}
+{"title": "그대라는 사치", "artist": ["한동근"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 97}}
+{"title": "그 남자 그 여자 (Feat. 장혜진)", "artist": ["바이브"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 98}}
+{"title": "Closer (Feat. Halsey)", "artist": ["The Chainsmokers"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 99}}
+{"title": "Uptown Funk (Feat. Bruno Mars)", "artist": ["Mark Ronson"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 100}}
+{"title": "그날처럼", "artist": ["장덕철"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 101}}
+{"title": "거짓말", "artist": ["BIGBANG (빅뱅)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 102}}
+{"title": "삐삐", "artist": ["아이유(IU)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 103}}
+{"title": "소녀", "artist": ["오혁"], "tag": "이별 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 104}}
+{"title": "Dance The Night Away", "artist": ["TWICE(트와이스)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 105}}
+{"title": "IDOL", "artist": ["방탄소년단"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 106}}
+{"title": "한숨", "artist": ["이하이"], "tag": "이별 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 107}}
+{"title": "그대네요 (With 아이유)", "artist": ["성시경", "아이유(IU)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 108}}
+{"title": "Let It Go (From \"Frozen\"/Soundtrack Version)", "artist": ["Idina Menzel"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 109}}
+{"title": "썸 (Feat. 릴보이 of 긱스)", "artist": ["소유 (SOYOU)", "정기고(Junggigo)"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 110}}
+{"title": "만약에", "artist": ["태연 (TAEYEON)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 111}}
+{"title": "Something Just Like This", "artist": ["The Chainsmokers", "Coldplay"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 112}}
+{"title": "Santa Tell Me", "artist": ["Ariana Grande"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 113}}
+{"title": "Rolling In The Deep", "artist": ["Adele"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 114}}
+{"title": "거짓말 거짓말 거짓말", "artist": ["이적"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 115}}
+{"title": "I Miss You", "artist": ["소유 (SOYOU)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 116}}
+{"title": "Memories", "artist": ["Maroon 5"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 117}}
+{"title": "OOH-AHH하게", "artist": ["TWICE(트와이스)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 118}}
+{"title": "애인 있어요", "artist": ["이은미"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 119}}
+{"title": "뿜뿜", "artist": ["모모랜드(MOMOLAND)"], "tag": "당당한 기쁨 운동"}
+{"index": {"_index": "music", "_id": 120}}
+{"title": "시간을 달려서 (Rough)", "artist": ["여자친구(GFRIEND)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 121}}
+{"title": "신청곡 (Feat. SUGA of BTS)", "artist": ["이소라"], "tag": "이별 신나는 운동"}
+{"index": {"_index": "music", "_id": 122}}
+{"title": "We Don't Talk Anymore (Feat. Selena Gomez)", "artist": ["Charlie Puth"], "tag": "연인 편안한 운동"}
+{"index": {"_index": "music", "_id": 123}}
+{"title": "뜨거운 여름밤은 가고 남은 건 볼품없지만", "artist": ["잔나비"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 124}}
+{"title": "사랑 안해", "artist": ["백지영"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 125}}
+{"title": "노래방에서", "artist": ["장범준"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 126}}
+{"title": "열애중", "artist": ["벤"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 127}}
+{"title": "크리스마스니까", "artist": ["성시경", "박효신", "이석훈", "서인국", "VIXX(빅스)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 128}}
+{"title": "안아줘", "artist": ["정준일"], "tag": "이별 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 129}}
+{"title": "Viva La Vida", "artist": ["Coldplay"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 130}}
+{"title": "D (half moon)  (Feat. 개코)", "artist": ["DEAN"], "tag": "위로 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 131}}
+{"title": "우산 (Feat. 윤하)", "artist": ["에픽하이 (EPIK HIGH)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 132}}
+{"title": "HandClap", "artist": ["Fitz and The Tantrums"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 133}}
+{"title": "기억을 걷는 시간", "artist": ["넬(NELL)"], "tag": "이별 그리움 파티"}
+{"index": {"_index": "music", "_id": 134}}
+{"title": "너는 나의 봄이다", "artist": ["성시경"], "tag": "연인 슬픔 운동"}
+{"index": {"_index": "music", "_id": 135}}
+{"title": "끝사랑", "artist": ["김범수"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 136}}
+{"title": "...사랑했잖아...", "artist": ["린"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 137}}
+{"title": "미리 메리 크리스마스 (Feat. 천둥 of MBLAQ)", "artist": ["아이유(IU)"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 138}}
+{"title": "Dolphin", "artist": ["오마이걸(OH MY GIRL)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 139}}
+{"title": "썸 탈꺼야", "artist": ["볼빨간사춘기"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 140}}
+{"title": "비행기", "artist": ["거북이"], "tag": "위로 신나는 운동"}
+{"index": {"_index": "music", "_id": 141}}
+{"title": "눈, 코, 입", "artist": ["태양"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 142}}
+{"title": "사랑이 잘 (With 오혁)", "artist": ["아이유(IU)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 143}}
+{"title": "나의 옛날이야기", "artist": ["아이유(IU)"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 144}}
+{"title": "오늘도 빛나는 너에게 (To You My Light) (Feat. 이라온)", "artist": ["마크툽(Maktub)"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 145}}
+{"title": "사랑하게 될 줄 알았어", "artist": ["전미도"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 146}}
+{"title": "늦은 밤 너의 집 앞 골목길에서", "artist": ["노을"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 147}}
+{"title": "METEOR", "artist": ["창모(CHANGMO)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 148}}
+{"title": "잔소리 (With 임슬옹 of 2AM)", "artist": ["아이유(IU)"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 149}}
+{"title": "그때 헤어지면 돼", "artist": ["로이킴"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 150}}
+{"title": "Treasure", "artist": ["Bruno Mars"], "tag": "당당한 편안한 파티"}
+{"index": {"_index": "music", "_id": 151}}
+{"title": "남자를 몰라", "artist": ["버즈"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 152}}
+{"title": "REALLY REALLY", "artist": ["WINNER"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 153}}
+{"title": "어땠을까 (Feat. 박정현)", "artist": ["싸이 (PSY)"], "tag": "연인 그리움 운동"}
+{"index": {"_index": "music", "_id": 154}}
+{"title": "체념", "artist": ["빅마마"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 155}}
+{"title": "나의 사춘기에게", "artist": ["볼빨간사춘기"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 156}}
+{"title": "Moves Like Jagger (Studio Recording From \"The Voice\" Performance) (Feat. Christina Aguilera)", "artist": ["Maroon 5"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 157}}
+{"title": "Decalcomanie (데칼코마니)", "artist": ["마마무(Mamamoo)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 158}}
+{"title": "잊지 말아요", "artist": ["백지영"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 159}}
+{"title": "사랑에 연습이 있었다면 (Prod. 2soo)", "artist": ["임재현"], "tag": "이별 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 160}}
+{"title": "뱅뱅뱅 (BANG BANG BANG)", "artist": ["BIGBANG (빅뱅)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 161}}
+{"title": "Timeless", "artist": ["SG워너비"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 162}}
+{"title": "그때가 좋았어", "artist": ["케이시(Kassy)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 163}}
+{"title": "러시안 룰렛 (Russian Roulette)", "artist": ["Red Velvet (레드벨벳)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 164}}
+{"title": "죄(罪)와 벌(罰)", "artist": ["SG워너비"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 165}}
+{"title": "너에게 쓰는 편지 (Feat. 린)", "artist": ["MC몽"], "tag": "연인 신나는 공부"}
+{"index": {"_index": "music", "_id": 166}}
+{"title": "한여름밤의 꿀", "artist": ["산이(San E)", "레이나"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 167}}
+{"title": "휘파람", "artist": ["BLACKPINK"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 168}}
+{"title": "FANTASTIC BABY", "artist": ["BIGBANG (빅뱅)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 169}}
+{"title": "하루도 그대를 사랑하지 않은 적이 없었다", "artist": ["임창정"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 170}}
+{"title": "See You Again (Feat. Charlie Puth)", "artist": ["Wiz Khalifa"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 171}}
+{"title": "Celebrity", "artist": ["아이유(IU)"], "tag": "당당한 신나는 공부"}
+{"index": {"_index": "music", "_id": 172}}
+{"title": "벌써 12시", "artist": ["청하"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 173}}
+{"title": "위잉위잉", "artist": ["혁오(HYUKOH)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 174}}
+{"title": "옥탑방 (Rooftop)", "artist": ["엔플라잉 (N.Flying)"], "tag": "연인 신나는 파티"}
+{"index": {"_index": "music", "_id": 175}}
+{"title": "달라달라", "artist": ["ITZY(있지)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 176}}
+{"title": "청춘 (Feat. 김창완)", "artist": ["김필"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 177}}
+{"title": "첫 눈", "artist": ["정준일"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 178}}
+{"title": "남이 될 수 있을까", "artist": ["볼빨간사춘기", "스무살"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 179}}
+{"title": "인생의 회전목마 (하울의 움직이는 성)", "artist": ["Elizabeth Bright"], "tag": "위로 그리움 공부"}
+{"index": {"_index": "music", "_id": 180}}
+{"title": "200%", "artist": ["AKMU(악뮤)"], "tag": "연인 신나는 파티"}
+{"index": {"_index": "music", "_id": 181}}
+{"title": "Bye bye my blue", "artist": ["백예린(Yerin Baek)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 182}}
+{"title": "그대라는 시", "artist": ["태연 (TAEYEON)"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 183}}
+{"title": "꺼내 먹어요", "artist": ["Zion.T"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 184}}
+{"title": "기억의 습작", "artist": ["전람회"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 185}}
+{"title": "Loving U (러빙유)", "artist": ["씨스타"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 186}}
+{"title": "나만, 봄", "artist": ["볼빨간사춘기"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 187}}
+{"title": "라라라", "artist": ["SG워너비"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 188}}
+{"title": "묘해, 너와", "artist": ["어쿠스틱 콜라보"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 189}}
+{"title": "ALWAYS", "artist": ["윤미래"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 190}}
+{"title": "KNOCK KNOCK", "artist": ["TWICE(트와이스)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 191}}
+{"title": "스토커", "artist": ["10CM"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 192}}
+{"title": "빙고", "artist": ["거북이"], "tag": "위로 신나는 운동"}
+{"index": {"_index": "music", "_id": 193}}
+{"title": "Faded", "artist": ["Alan Walker"], "tag": "연인 잔잔한 운동"}
+{"index": {"_index": "music", "_id": 194}}
+{"title": "광화문에서 (At Gwanghwamun)", "artist": ["규현(KYUHYUN)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 195}}
+{"title": "I NEED U", "artist": ["방탄소년단"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 196}}
+{"title": "하루하루", "artist": ["BIGBANG (빅뱅)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 197}}
+{"title": "스물셋", "artist": ["아이유(IU)"], "tag": "이별 기쁨 운동"}
+{"index": {"_index": "music", "_id": 198}}
+{"title": "YES or YES", "artist": ["TWICE(트와이스)"], "tag": "연인 신나는 파티"}
+{"index": {"_index": "music", "_id": 199}}
+{"title": "너무 보고 싶어", "artist": ["어쿠스틱 콜라보"], "tag": "이별 슬픔 공부"}
+{"index": {"_index": "music", "_id": 200}}
+{"title": "양화대교", "artist": ["Zion.T"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 201}}
+{"title": "시차 (We Are) (Feat. 로꼬 & GRAY)", "artist": ["우원재"], "tag": "위로 신나는 운동"}
+{"index": {"_index": "music", "_id": 202}}
+{"title": "나만 몰랐던 이야기", "artist": ["아이유(IU)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 203}}
+{"title": "넘쳐흘러", "artist": ["엠씨더맥스(M.C the MAX)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 204}}
+{"title": "Call You Mine (Feat. Geologic of The Blue Scholars)", "artist": ["Jeff Bernat"], "tag": "당당한 편안한 휴식"}
+{"index": {"_index": "music", "_id": 205}}
+{"title": "Roller Coaster", "artist": ["청하"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 206}}
+{"title": "오래된 노래", "artist": ["스탠딩 에그(Standing Egg)"], "tag": "이별 기쁨 운동"}
+{"index": {"_index": "music", "_id": 207}}
+{"title": "All For You", "artist": ["서인국", "정은지"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 208}}
+{"title": "이쁘다니까", "artist": ["에디킴"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 209}}
+{"title": "Maps", "artist": ["Maroon 5"], "tag": "당당한 잔잔한 운동"}
+{"index": {"_index": "music", "_id": 210}}
+{"title": "제자리 걸음", "artist": ["김종국"], "tag": "연인 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 211}}
+{"title": "눈사람", "artist": ["정승환"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 212}}
+{"title": "첫사랑", "artist": ["버스커 버스커"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 213}}
+{"title": "Hush", "artist": ["Lasse Lindh"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 214}}
+{"title": "어른", "artist": ["Sondia"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 215}}
+{"title": "삐딱하게 (Crooked)", "artist": ["G-DRAGON"], "tag": "당당한 신나는 휴식"}
+{"index": {"_index": "music", "_id": 216}}
+{"title": "총 맞은 것처럼", "artist": ["백지영"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 217}}
+{"title": "별이 빛나는 밤", "artist": ["마마무(Mamamoo)"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 218}}
+{"title": "출발", "artist": ["김동률"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 219}}
+{"title": "귀로", "artist": ["나얼"], "tag": "위로 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 220}}
+{"title": "내 손을 잡아", "artist": ["아이유(IU)"], "tag": "연인 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 221}}
+{"title": "TOMBOY", "artist": ["혁오(HYUKOH)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 222}}
+{"title": "내게 오는 길", "artist": ["성시경"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 223}}
+{"title": "11:11", "artist": ["태연 (TAEYEON)"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 224}}
+{"title": "취기를 빌려 (취향저격 그녀 X 산들)", "artist": ["산들"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 225}}
+{"title": "같은 시간 속의 너", "artist": ["나얼"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 226}}
+{"title": "그 사람", "artist": ["이승철"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 227}}
+{"title": "그게나야", "artist": ["김동률"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 228}}
+{"title": "이 사랑", "artist": ["다비치"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 229}}
+{"title": "그냥 (Just)", "artist": ["Zion.T", "Crush"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 230}}
+{"title": "좋은 사람 있으면 소개시켜줘", "artist": ["조이 (JOY)"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 231}}
+{"title": "LIKEY", "artist": ["TWICE(트와이스)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 232}}
+{"title": "I Love U Oh Thank U (Feat. 김태우)", "artist": ["MC몽"], "tag": "연인 신나는 휴식"}
+{"index": {"_index": "music", "_id": 233}}
+{"title": "그리워하다", "artist": ["비투비"], "tag": "이별 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 234}}
+{"title": "Who are you", "artist": ["샘김(Sam Kim)"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 235}}
+{"title": "살짝 설렜어 (Nonstop)", "artist": ["오마이걸(OH MY GIRL)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 236}}
+{"title": "Forever Young", "artist": ["BLACKPINK"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 237}}
+{"title": "돌아오지마  (Feat. 용준형 of 비스트)", "artist": ["헤이즈 (Heize)"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 238}}
+{"title": "에라 모르겠다", "artist": ["BIGBANG (빅뱅)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 239}}
+{"title": "Hello", "artist": ["Adele"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 240}}
+{"title": "별, 바람, 햇살 그리고 사랑", "artist": ["김종국"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 241}}
+{"title": "니 소식", "artist": ["송하예"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 242}}
+{"title": "무제(無題) (Untitled, 2014)", "artist": ["G-DRAGON"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 243}}
+{"title": "Friends", "artist": ["Marshmello", "Anne-Marie"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 244}}
+{"title": "Just The Way You Are", "artist": ["Bruno Mars"], "tag": "연인 편안한 운동"}
+{"index": {"_index": "music", "_id": 245}}
+{"title": "나에게로 떠나는 여행", "artist": ["버즈"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 246}}
+{"title": "all of my life", "artist": ["박원"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 247}}
+{"title": "Rain", "artist": ["태연 (TAEYEON)"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 248}}
+{"title": "강남스타일", "artist": ["싸이 (PSY)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 249}}
+{"title": "사랑스러워", "artist": ["김종국"], "tag": "이별 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 250}}
+{"title": "너에게 못했던 내 마지막 말은", "artist": ["다비치"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 251}}
+{"title": "롤린 (Rollin')", "artist": ["브레이브걸스(Brave Girls)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 252}}
+{"title": "No One Else Like You", "artist": ["Adam Levine"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 253}}
+{"title": "Believer", "artist": ["Imagine Dragons"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 254}}
+{"title": "처음엔 사랑이란게", "artist": ["버스커 버스커"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 255}}
+{"title": "There's Nothing Holdin' Me Back", "artist": ["Shawn Mendes"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 256}}
+{"title": "무릎", "artist": ["아이유(IU)"], "tag": "이별 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 257}}
+{"title": "Happy (Gru's Theme From Despicable Me 2)", "artist": ["Pharrell Williams"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 258}}
+{"title": "You", "artist": ["멜로망스(Melomance)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 259}}
+{"title": "목요일 밤  (Feat. 빈지노)", "artist": ["어반자카파"], "tag": "당당한 기쁨 파티"}
+{"index": {"_index": "music", "_id": 260}}
+{"title": "전하지 못한 진심 (Feat. Steve Aoki)", "artist": ["방탄소년단"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 261}}
+{"title": "Sunday Morning", "artist": ["Maroon 5"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 262}}
+{"title": "기억해줘요 내 모든 날과 그때를", "artist": ["거미"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 263}}
+{"title": "노력", "artist": ["박원"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 264}}
+{"title": "All I Want for Christmas Is You", "artist": ["Mariah Carey"], "tag": "연인 잔잔한 운동"}
+{"index": {"_index": "music", "_id": 265}}
+{"title": "어떻게 사랑이 그래요", "artist": ["이승환"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 266}}
+{"title": "봄이 좋냐??", "artist": ["10CM"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 267}}
+{"title": "Speechless (Full)", "artist": ["Naomi Scott"], "tag": "당당한 편안한 공부"}
+{"index": {"_index": "music", "_id": 268}}
+{"title": "세 글자", "artist": ["엠투엠 (M To M)"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 269}}
+{"title": "이럴거면 그러지말지 (Feat. Young K)", "artist": ["백아연"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 270}}
+{"title": "All I Wanna Do (K)  (Feat. Hoody, Loco)", "artist": ["박재범"], "tag": "연인 신나는 파티"}
+{"index": {"_index": "music", "_id": 271}}
+{"title": "시간을 거슬러 (해를 품은 달 OST)", "artist": ["린"], "tag": "위로 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 272}}
+{"title": "시작", "artist": ["가호 (Gaho)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 273}}
+{"title": "내 눈에만 보여", "artist": ["10CM"], "tag": "연인 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 274}}
+{"title": "Make You Feel My Love", "artist": ["Adele"], "tag": "연인 편안한 공부"}
+{"index": {"_index": "music", "_id": 275}}
+{"title": "Butter", "artist": ["방탄소년단"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 276}}
+{"title": "그건 아마 우리의 잘못은 아닐 거야", "artist": ["백예린(Yerin Baek)"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 277}}
+{"title": "시든 꽃에 물을 주듯", "artist": ["HYNN(박혜원)"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 278}}
+{"title": "포장마차", "artist": ["황인욱"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 279}}
+{"title": "소우주 (Mikrokosmos)", "artist": ["방탄소년단"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 280}}
+{"title": "I (Feat. 버벌진트)", "artist": ["태연 (TAEYEON)"], "tag": "당당한 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 281}}
+{"title": "에너제틱 (Energetic)", "artist": ["Wanna One(워너원)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 282}}
+{"title": "Square (2017)", "artist": ["백예린(Yerin Baek)"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 283}}
+{"title": "마지막 인사", "artist": ["BIGBANG (빅뱅)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 284}}
+{"title": "행복하지 말아요", "artist": ["엠씨더맥스(M.C the MAX)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 285}}
+{"title": "Lovesick Girls", "artist": ["BLACKPINK"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 286}}
+{"title": "What is Love?", "artist": ["TWICE(트와이스)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 287}}
+{"title": "보고 싶다", "artist": ["김범수"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 288}}
+{"title": "봄봄봄", "artist": ["로이킴"], "tag": "연인 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 289}}
+{"title": "Falling Slowly", "artist": ["Glen Hansard", "Marketa Irglova"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 290}}
+{"title": "You(=I)", "artist": ["볼빨간사춘기"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 291}}
+{"title": "보여줄게", "artist": ["에일리(Ailee)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 292}}
+{"title": "서른 즈음에", "artist": ["김광석"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 293}}
+{"title": "우연히 봄", "artist": ["로꼬", "유주(YUJU)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 294}}
+{"title": "그녀를 사랑해줘요", "artist": ["하동균"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 295}}
+{"title": "라일락", "artist": ["아이유(IU)"], "tag": "당당한 신나는 공부"}
+{"index": {"_index": "music", "_id": 296}}
+{"title": "좋을텐데", "artist": ["성시경"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 297}}
+{"title": "Psycho", "artist": ["Red Velvet (레드벨벳)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 298}}
+{"title": "너에게", "artist": ["성시경"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 299}}
+{"title": "우주를 건너", "artist": ["백예린(Yerin Baek)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 300}}
+{"title": "Chandelier", "artist": ["Sia"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 301}}
+{"title": "SHAKE IT", "artist": ["씨스타"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 302}}
+{"title": "말해! 뭐해?", "artist": ["케이윌"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 303}}
+{"title": "하루 끝", "artist": ["아이유(IU)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 304}}
+{"title": "Kill This Love", "artist": ["BLACKPINK"], "tag": "당당한 기쁨 운동"}
+{"index": {"_index": "music", "_id": 305}}
+{"title": "How You Like That", "artist": ["BLACKPINK"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 306}}
+{"title": "이름에게", "artist": ["아이유(IU)"], "tag": "위로 그리움 공부"}
+{"index": {"_index": "music", "_id": 307}}
+{"title": "잠이 오질 않네요", "artist": ["장범준"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 308}}
+{"title": "마음을 드려요", "artist": ["아이유(IU)"], "tag": "이별 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 309}}
+{"title": "And July (Feat. DEAN, DJ Friz)", "artist": ["헤이즈 (Heize)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 310}}
+{"title": "I Don't Care", "artist": ["2NE1"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 311}}
+{"title": "이런 엔딩", "artist": ["아이유(IU)"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 312}}
+{"title": "너를 위해", "artist": ["임재범"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 313}}
+{"title": "Day Day (Prod. by GRAY) (Feat. 박재범)", "artist": ["비와이(BewhY)"], "tag": "위로 신나는 파티"}
+{"index": {"_index": "music", "_id": 314}}
+{"title": "Photograph", "artist": ["Ed Sheeran"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 315}}
+{"title": "Perhaps Love (사랑인가요)", "artist": ["제이(J.ae)", "하울(HowL)"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 316}}
+{"title": "다행이다", "artist": ["이적"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 317}}
+{"title": "RUN", "artist": ["방탄소년단"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 318}}
+{"title": "붉은 노을", "artist": ["BIGBANG (빅뱅)"], "tag": "당당한 신나는 휴식"}
+{"index": {"_index": "music", "_id": 319}}
+{"title": "인연 (동녘바람)", "artist": ["이선희"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 320}}
+{"title": "정말로 사랑한다면", "artist": ["버스커 버스커"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 321}}
+{"title": "그런 사람 또 없습니다", "artist": ["이승철"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 322}}
+{"title": "아름다운 이별", "artist": ["김건모"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 323}}
+{"title": "여전히 아름다운지", "artist": ["김연우"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 324}}
+{"title": "당신과는 천천히", "artist": ["장범준"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 325}}
+{"title": "심술", "artist": ["볼빨간사춘기"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 326}}
+{"title": "My Love", "artist": ["이승철"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 327}}
+{"title": "친구라도 될걸 그랬어", "artist": ["거미"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 328}}
+{"title": "Heart Shaker", "artist": ["TWICE(트와이스)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 329}}
+{"title": "SOLO", "artist": ["제니 (JENNIE)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 330}}
+{"title": "매일 듣는 노래 (A Daily Song)", "artist": ["황치열"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 331}}
+{"title": "City Of Stars (From \"La La Land\" Soundtrack)", "artist": ["Ryan Gosling", "Various Artists"], "tag": "이별 편안한 휴식"}
+{"index": {"_index": "music", "_id": 332}}
+{"title": "Don't Start Now", "artist": ["Dua Lipa"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 333}}
+{"title": "애상", "artist": ["쿨(COOL)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 334}}
+{"title": "FANCY", "artist": ["TWICE(트와이스)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 335}}
+{"title": "Goodbye", "artist": ["박효신"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 336}}
+{"title": "180도", "artist": ["벤"], "tag": "이별 슬픔 공부"}
+{"index": {"_index": "music", "_id": 337}}
+{"title": "널 너무 모르고", "artist": ["헤이즈 (Heize)"], "tag": "연인 슬픔 운동"}
+{"index": {"_index": "music", "_id": 338}}
+{"title": "여인의 향기", "artist": ["씨야(SeeYa)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 339}}
+{"title": "고백", "artist": ["양다일"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 340}}
+{"title": "사랑에 빠지고 싶다", "artist": ["정승환"], "tag": "위로 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 341}}
+{"title": "사랑한다는 흔한 말", "artist": ["김연우"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 342}}
+{"title": "술이 문제야", "artist": ["장혜진", "윤민수(바이브)"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 343}}
+{"title": "응급실", "artist": ["izi"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 344}}
+{"title": "잘못된 만남", "artist": ["김건모"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 345}}
+{"title": "으르렁 (Growl)", "artist": ["EXO"], "tag": "당당한 신나는 휴식"}
+{"index": {"_index": "music", "_id": 346}}
+{"title": "가을 타나 봐", "artist": ["바이브"], "tag": "이별 잔잔한 공부"}
+{"index": {"_index": "music", "_id": 347}}
+{"title": "들리나요...", "artist": ["태연 (TAEYEON)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 348}}
+{"title": "까만안경 (Feat. Day Light)", "artist": ["이루"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 349}}
+{"title": "사랑인 걸", "artist": ["모세"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 350}}
+{"title": "Next Level", "artist": ["aespa"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 351}}
+{"title": "추억은 사랑을 닮아", "artist": ["박효신"], "tag": "위로 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 352}}
+{"title": "한 여름날의 꿈 (Feat. 옥주현)", "artist": ["SG워너비"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 353}}
+{"title": "이 지금", "artist": ["아이유(IU)"], "tag": "연인 그리움 운동"}
+{"index": {"_index": "music", "_id": 354}}
+{"title": "IF YOU", "artist": ["BIGBANG (빅뱅)"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 355}}
+{"title": "How Long Will I Love You", "artist": ["Ellie Goulding"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 356}}
+{"title": "아이처럼 (Feat. 알렉스)", "artist": ["김동률"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 357}}
+{"title": "DINOSAUR", "artist": ["AKMU(악뮤)"], "tag": "위로 신나는 휴식"}
+{"index": {"_index": "music", "_id": 358}}
+{"title": "비밀의 화원", "artist": ["아이유(IU)"], "tag": "위로 기쁨 운동"}
+{"index": {"_index": "music", "_id": 359}}
+{"title": "뜨거운 안녕 (Feat. 성시경)", "artist": ["싸이 (PSY)"], "tag": "이별 신나는 운동"}
+{"index": {"_index": "music", "_id": 360}}
+{"title": "저 별", "artist": ["헤이즈 (Heize)"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 361}}
+{"title": "언제나 몇 번이라도 (센과 치히로의 행방불명)", "artist": ["Elizabeth Bright"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 362}}
+{"title": "처음부터 너와 나", "artist": ["볼빨간사춘기"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 363}}
+{"title": "신호등", "artist": ["이무진"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 364}}
+{"title": "붐바야", "artist": ["BLACKPINK"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 365}}
+{"title": "Touch my body", "artist": ["씨스타"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 366}}
+{"title": "꿈처럼", "artist": ["벤"], "tag": "이별 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 367}}
+{"title": "Fix You", "artist": ["Coldplay"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 368}}
+{"title": "수고했어, 오늘도", "artist": ["옥상달빛"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 369}}
+{"title": "심쿵해 (Heart Attack)", "artist": ["AOA"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 370}}
+{"title": "화려하지 않은 고백", "artist": ["규현(KYUHYUN)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 371}}
+{"title": "instagram", "artist": ["DEAN"], "tag": "위로 기쁨 파티"}
+{"index": {"_index": "music", "_id": 372}}
+{"title": "ON", "artist": ["방탄소년단"], "tag": "당당한 편안한 휴식"}
+{"index": {"_index": "music", "_id": 373}}
+{"title": "Bohemian Rhapsody", "artist": ["Queen"], "tag": "당당한 편안한 공부"}
+{"index": {"_index": "music", "_id": 374}}
+{"title": "Señorita", "artist": ["Shawn Mendes", "Camila Cabello"], "tag": "연인 신나는 파티"}
+{"index": {"_index": "music", "_id": 375}}
+{"title": "다시 여기 바닷가", "artist": ["싹쓰리(유두래곤, 린다G, 비룡)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 376}}
+{"title": "나의 어깨에 기대어요", "artist": ["10CM"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 377}}
+{"title": "스물다섯, 스물하나", "artist": ["자우림"], "tag": "위로 그리움 공부"}
+{"index": {"_index": "music", "_id": 378}}
+{"title": "That's What I Like", "artist": ["Bruno Mars"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 379}}
+{"title": "하늘바라기 (Feat. 하림)", "artist": ["정은지"], "tag": "위로 신나는 휴식"}
+{"index": {"_index": "music", "_id": 380}}
+{"title": "쩔어", "artist": ["방탄소년단"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 381}}
+{"title": "별 보러 가자", "artist": ["적재"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 382}}
+{"title": "Oh!", "artist": ["소녀시대 (GIRLS' GENERATION)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 383}}
+{"title": "Boys And Girls (Feat. Babylon)", "artist": ["지코 (ZICO)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 384}}
+{"title": "Gee", "artist": ["소녀시대 (GIRLS' GENERATION)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 385}}
+{"title": "밤 (Time for the moon night)", "artist": ["여자친구(GFRIEND)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 386}}
+{"title": "가끔 미치도록 네가 안고 싶어질 때가 있어", "artist": ["가을방학"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 387}}
+{"title": "Thunder", "artist": ["Imagine Dragons"], "tag": "당당한 잔잔한 운동"}
+{"index": {"_index": "music", "_id": 388}}
+{"title": "Save ME", "artist": ["방탄소년단"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 389}}
+{"title": "Lucky (Feat. Colbie Caillat)", "artist": ["Jason Mraz"], "tag": "연인 편안한 공부"}
+{"index": {"_index": "music", "_id": 390}}
+{"title": "오르막길", "artist": ["정인", "윤종신"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 391}}
+{"title": "사랑은 은하수 다방에서", "artist": ["10CM"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 392}}
+{"title": "밤하늘의 별을 (2020)", "artist": ["경서"], "tag": "연인 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 393}}
+{"title": "사랑..그 놈", "artist": ["바비 킴"], "tag": "이별 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 394}}
+{"title": "이 바보야", "artist": ["정승환"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 395}}
+{"title": "어떻게 지내", "artist": ["Crush"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 396}}
+{"title": "서쪽 하늘", "artist": ["이승철"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 397}}
+{"title": "서쪽 하늘", "artist": ["울랄라세션"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 398}}
+{"title": "가시나", "artist": ["선미"], "tag": "이별 기쁨 운동"}
+{"index": {"_index": "music", "_id": 399}}
+{"title": "Problem (Feat. Iggy Azalea)", "artist": ["Ariana Grande"], "tag": "당당한 잔잔한 파티"}
+{"index": {"_index": "music", "_id": 400}}
+{"title": "분홍신", "artist": ["아이유(IU)"], "tag": "당당한 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 401}}
+{"title": "너 그리고 나 (NAVILLERA)", "artist": ["여자친구(GFRIEND)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 402}}
+{"title": "안녕이라고 말하지마", "artist": ["다비치"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 403}}
+{"title": "세 사람 (With 성시경)", "artist": ["토이"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 404}}
+{"title": "LOSER", "artist": ["BIGBANG (빅뱅)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 405}}
+{"title": "Last Carnival", "artist": ["Acoustic Cafe"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 406}}
+{"title": "사랑은 가슴이 시킨다", "artist": ["버즈"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 407}}
+{"title": "사랑이란 멜로는 없어", "artist": ["전상근"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 408}}
+{"title": "Go Away", "artist": ["2NE1"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 409}}
+{"title": "잠 못 드는 밤 비는 내리고", "artist": ["아이유(IU)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 410}}
+{"title": "Runaway Baby", "artist": ["Bruno Mars"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 411}}
+{"title": "Give Love", "artist": ["AKMU(악뮤)"], "tag": "연인 슬픔 공부"}
+{"index": {"_index": "music", "_id": 412}}
+{"title": "Missing You (Feat. 김윤아 of 자우림)", "artist": ["G-DRAGON"], "tag": "위로 그리움 공부"}
+{"index": {"_index": "music", "_id": 413}}
+{"title": "River Flows In You", "artist": ["이루마"], "tag": "위로 그리움 공부"}
+{"index": {"_index": "music", "_id": 414}}
+{"title": "Must Have Love", "artist": ["브라운아이드걸스", "SG워너비"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 415}}
+{"title": "만약에 말야 (전우성 Solo)", "artist": ["노을"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 416}}
+{"title": "희재", "artist": ["성시경"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 417}}
+{"title": "잊어버리지마 (Feat. 태연)", "artist": ["Crush"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 418}}
+{"title": "Call Me Maybe", "artist": ["Carly Rae Jepsen"], "tag": "당당한 편안한 휴식"}
+{"index": {"_index": "music", "_id": 419}}
+{"title": "헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)", "artist": ["리쌍(LeeSSang)"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 420}}
+{"title": "음오아예 (Um Oh Ah Yeh)", "artist": ["마마무(Mamamoo)"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 421}}
+{"title": "마리아 (Maria)", "artist": ["화사(Hwa Sa)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 422}}
+{"title": "봄날은 간다 (Bonus Track)", "artist": ["김윤아"], "tag": "연인 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 423}}
+{"title": "Touch love", "artist": ["윤미래"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 424}}
+{"title": "HIP", "artist": ["마마무(Mamamoo)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 425}}
+{"title": "소원", "artist": ["어반자카파"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 426}}
+{"title": "When I Was Your Man", "artist": ["Bruno Mars"], "tag": "이별 편안한 파티"}
+{"index": {"_index": "music", "_id": 427}}
+{"title": "넌 is 뭔들", "artist": ["마마무(Mamamoo)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 428}}
+{"title": "초록빛", "artist": ["폴킴"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 429}}
+{"title": "위아래", "artist": ["EXID"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 430}}
+{"title": "BLUE", "artist": ["BIGBANG (빅뱅)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 431}}
+{"title": "사랑이 다른 사랑으로 잊혀지네", "artist": ["하림"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 432}}
+{"title": "밤이 되니까", "artist": ["펀치 (Punch)"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 433}}
+{"title": "비행운", "artist": ["문문(MoonMoon)"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 434}}
+{"title": "comethru", "artist": ["Jeremy Zucker"], "tag": "이별 편안한 공부"}
+{"index": {"_index": "music", "_id": 435}}
+{"title": "Bang Bang", "artist": ["Jessie J", "Ariana Grande", "Nicki Minaj"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 436}}
+{"title": "Ballerino (Feat. ALI)", "artist": ["리쌍(LeeSSang)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 437}}
+{"title": "혜화동 (혹은 쌍문동)", "artist": ["박보람"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 438}}
+{"title": "비가 오는 날엔", "artist": ["비스트(Beast)"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 439}}
+{"title": "폰서트", "artist": ["10CM"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 440}}
+{"title": "비가 내리는 날에는", "artist": ["윤하"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 441}}
+{"title": "Another Day Of Sun", "artist": ["La La Land Cast"], "tag": "당당한 잔잔한 운동"}
+{"index": {"_index": "music", "_id": 442}}
+{"title": "One More Night", "artist": ["Maroon 5"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 443}}
+{"title": "겁 (Feat. 태양)", "artist": ["MINO (송민호)"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 444}}
+{"title": "Roly-Poly", "artist": ["티아라(T-ara)"], "tag": "연인 그리움 운동"}
+{"index": {"_index": "music", "_id": 445}}
+{"title": "Perfect", "artist": ["Ed Sheeran"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 446}}
+{"title": "사랑앓이", "artist": ["FTISLAND (FT아일랜드)"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 447}}
+{"title": "Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트)", "artist": ["pH-1", "키드밀리(Kid Milli)", "루피(Loopy)"], "tag": "위로 신나는 운동"}
+{"index": {"_index": "music", "_id": 448}}
+{"title": "잠시만 안녕 (Original)", "artist": ["엠씨더맥스(M.C the MAX)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 449}}
+{"title": "너 때문에 미쳐", "artist": ["티아라(T-ara)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 450}}
+{"title": "정말 사랑했을까", "artist": ["브라운 아이드 소울"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 451}}
+{"title": "되돌리다", "artist": ["이승기"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 452}}
+{"title": "고민보다 Go", "artist": ["방탄소년단"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 453}}
+{"title": "MIC Drop", "artist": ["방탄소년단"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 454}}
+{"title": "Mr. Chu (On Stage)", "artist": ["에이핑크(Apink)"], "tag": "연인 신나는 파티"}
+{"index": {"_index": "music", "_id": 455}}
+{"title": "SIGNAL", "artist": ["TWICE(트와이스)"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 456}}
+{"title": "사랑의 바보", "artist": ["더 넛츠(The Nuts)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 457}}
+{"title": "hello", "artist": ["허각"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 458}}
+{"title": "바본가봐", "artist": ["아이비"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 459}}
+{"title": "초혼", "artist": ["장윤정"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 460}}
+{"title": "애타는 마음", "artist": ["울랄라세션", "아이유(IU)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 461}}
+{"title": "넌 감동이었어", "artist": ["성시경"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 462}}
+{"title": "Downtown Baby", "artist": ["블루(BLOO)"], "tag": "위로 기쁨 파티"}
+{"index": {"_index": "music", "_id": 463}}
+{"title": "오빠야", "artist": ["신현희와김루트"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 464}}
+{"title": "Dance Monkey", "artist": ["Tones And I"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 465}}
+{"title": "끝", "artist": ["권진아"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 466}}
+{"title": "New Face", "artist": ["싸이 (PSY)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 467}}
+{"title": "와리가리", "artist": ["혁오(HYUKOH)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 468}}
+{"title": "Ah-Choo", "artist": ["러블리즈"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 469}}
+{"title": "사랑한 후에", "artist": ["박효신"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 470}}
+{"title": "All Falls Down (Feat. Juliander, Noah Cyrus, Digital Farm Animals)", "artist": ["Alan Walker"], "tag": "당당한 잔잔한 운동"}
+{"index": {"_index": "music", "_id": 471}}
+{"title": "Marry Me", "artist": ["마크툽(Maktub)", "구윤회"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 472}}
+{"title": "한 남자", "artist": ["김종국"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 473}}
+{"title": "Everglow", "artist": ["Coldplay"], "tag": "연인 편안한 운동"}
+{"index": {"_index": "music", "_id": 474}}
+{"title": "Fly (Feat. Amin. J of Soulciety)", "artist": ["에픽하이 (EPIK HIGH)"], "tag": "이별 신나는 휴식"}
+{"index": {"_index": "music", "_id": 475}}
+{"title": "Rain Drop", "artist": ["아이유(IU)"], "tag": "연인 슬픔 운동"}
+{"index": {"_index": "music", "_id": 476}}
+{"title": "오늘 취하면 (Feat. 창모) (Prod. SUGA)", "artist": ["SURAN(수란)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 477}}
+{"title": "Tell me (Sampling from Two of Hearts)", "artist": ["원더걸스"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 478}}
+{"title": "고백", "artist": ["델리스파이스"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 479}}
+{"title": "너무 아픈 사랑은 사랑이 아니었음을", "artist": ["김광석"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 480}}
+{"title": "The Scientist", "artist": ["Coldplay"], "tag": "연인 편안한 운동"}
+{"index": {"_index": "music", "_id": 481}}
+{"title": "Happiness", "artist": ["가비엔제이"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 482}}
+{"title": "7 rings", "artist": ["Ariana Grande"], "tag": "당당한 신나는 휴식"}
+{"index": {"_index": "music", "_id": 483}}
+{"title": "푸르던", "artist": ["아이유(IU)"], "tag": "위로 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 484}}
+{"title": "구르미 그린 달빛", "artist": ["거미"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 485}}
+{"title": "Love Blossom (러브블러썸)", "artist": ["케이윌"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 486}}
+{"title": "HER", "artist": ["블락비(Block B)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 487}}
+{"title": "그대 고운 내사랑", "artist": ["어반자카파"], "tag": "위로 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 488}}
+{"title": "시간과 낙엽", "artist": ["AKMU(악뮤)"], "tag": "위로 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 489}}
+{"title": "Lonely Night", "artist": ["권진아"], "tag": "이별 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 490}}
+{"title": "눈 (Feat. 이문세)", "artist": ["Zion.T"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 491}}
+{"title": "네 생각", "artist": ["존 박"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 492}}
+{"title": "좋아", "artist": ["민서(MINSEO)", "윤종신"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 493}}
+{"title": "Power Up", "artist": ["Red Velvet (레드벨벳)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 494}}
+{"title": "그날에 우리", "artist": ["어반자카파"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 495}}
+{"title": "사랑비", "artist": ["김태우"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 496}}
+{"title": "술이야", "artist": ["바이브"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 497}}
+{"title": "오늘 헤어졌어요", "artist": ["윤하"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 498}}
+{"title": "꽃피는 봄이오면", "artist": ["BMK"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 499}}
+{"title": "헤어져줘서 고마워", "artist": ["벤"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 500}}
+{"title": "STAY", "artist": ["The Kid LAROI", "Justin Bieber"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 501}}
+{"title": "나혼자 (Alone)", "artist": ["씨스타"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 502}}
+{"title": "상남자 (Boy In Luv)", "artist": ["방탄소년단"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 503}}
+{"title": "사랑의 인사", "artist": ["씨야(SeeYa)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 504}}
+{"title": "thank u, next", "artist": ["Ariana Grande"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 505}}
+{"title": "NoNoNo", "artist": ["에이핑크(Apink)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 506}}
+{"title": "피카부 (Peek-A-Boo)", "artist": ["Red Velvet (레드벨벳)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 507}}
+{"title": "LAST DANCE", "artist": ["BIGBANG (빅뱅)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 508}}
+{"title": "Oasis (Feat. ZICO)", "artist": ["Crush"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 509}}
+{"title": "BAE BAE", "artist": ["BIGBANG (빅뱅)"], "tag": "당당한 기쁨 파티"}
+{"index": {"_index": "music", "_id": 510}}
+{"title": "Madeleine Love", "artist": ["CHEEZE (치즈)"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 511}}
+{"title": "Euphoria", "artist": ["방탄소년단"], "tag": "당당한 잔잔한 운동"}
+{"index": {"_index": "music", "_id": 512}}
+{"title": "그대가 분다", "artist": ["엠씨더맥스(M.C the MAX)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 513}}
+{"title": "Never Ending Story", "artist": ["부활"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 514}}
+{"title": "주지마", "artist": ["로꼬", "화사(Hwa Sa)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 515}}
+{"title": "Nobody", "artist": ["원더걸스"], "tag": "연인 신나는 파티"}
+{"index": {"_index": "music", "_id": 516}}
+{"title": "죽일 놈 (Guilty)", "artist": ["다이나믹 듀오"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 517}}
+{"title": "Blue", "artist": ["볼빨간사춘기"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 518}}
+{"title": "다정하게, 안녕히", "artist": ["성시경"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 519}}
+{"title": "솔직하게 말해서 나", "artist": ["김나영"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 520}}
+{"title": "사랑이 지나가면", "artist": ["아이유(IU)"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 521}}
+{"title": "Payphone (Feat. Wiz Khalifa)", "artist": ["Maroon 5"], "tag": "위로 신나는 운동"}
+{"index": {"_index": "music", "_id": 522}}
+{"title": "옛사랑", "artist": ["이문세"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 523}}
+{"title": "I Was Born To Love You (삼성 갤럭시노트 TV광고 삽입곡)", "artist": ["Queen"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 524}}
+{"title": "비와 당신 (영화 '라디오스타' 삽입곡)", "artist": ["럼블 피쉬"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 525}}
+{"title": "사랑이 식었다고 말해도 돼", "artist": ["먼데이키즈(Monday Kiz)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 526}}
+{"title": "Stay", "artist": ["Zedd", "Alessia Cara"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 527}}
+{"title": "Halo", "artist": ["Beyonce"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 528}}
+{"title": "너를 사랑해", "artist": ["윤미래"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 529}}
+{"title": "사이렌 (Siren)", "artist": ["선미"], "tag": "연인 신나는 휴식"}
+{"index": {"_index": "music", "_id": 530}}
+{"title": "가지마 가지마", "artist": ["브라운 아이즈"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 531}}
+{"title": "레옹", "artist": ["이유 갓지(GOD G) 않은 이유(박명수, 아이유)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 532}}
+{"title": "내가 웃는게 아니야 (Feat. Ali)", "artist": ["리쌍(LeeSSang)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 533}}
+{"title": "기다린 만큼, 더", "artist": ["검정치마"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 534}}
+{"title": "꽃길  (Prod. By ZICO)", "artist": ["김세정"], "tag": "위로 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 535}}
+{"title": "Tell Me If You Wanna Go Home", "artist": ["Keira Knightley"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 536}}
+{"title": "기다리다", "artist": ["윤하"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 537}}
+{"title": "제주도의 푸른 밤", "artist": ["태연 (TAEYEON)"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 538}}
+{"title": "Dream (Prod. by 박근태)", "artist": ["수지", "백현(BAEKHYUN)"], "tag": "당당한 편안한 휴식"}
+{"index": {"_index": "music", "_id": 539}}
+{"title": "헤픈엔딩 (Feat. 조원선 of 롤러코스터)", "artist": ["에픽하이 (EPIK HIGH)"], "tag": "위로 슬픔 운동"}
+{"index": {"_index": "music", "_id": 540}}
+{"title": "괜찮아 사랑이야", "artist": ["다비치"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 541}}
+{"title": "My Way", "artist": ["이수(엠씨더맥스)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 542}}
+{"title": "잊지 말기로 해", "artist": ["성시경", "권진아"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 543}}
+{"title": "비밀정원", "artist": ["오마이걸(OH MY GIRL)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 544}}
+{"title": "Dun Dun Dance", "artist": ["오마이걸(OH MY GIRL)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 545}}
+{"title": "꿈에", "artist": ["박정현"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 546}}
+{"title": "봄바람", "artist": ["버스커 버스커"], "tag": "연인 편안한 운동"}
+{"index": {"_index": "music", "_id": 547}}
+{"title": "연애소설 (Feat. 아이유)", "artist": ["에픽하이 (EPIK HIGH)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 548}}
+{"title": "슬퍼지려 하기 전에", "artist": ["쿨(COOL)"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 549}}
+{"title": "A Whole New World", "artist": ["Mena Massoud", "Naomi Scott"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 550}}
+{"title": "Permission to Dance", "artist": ["방탄소년단"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 551}}
+{"title": "Lost Stars", "artist": ["Keira Knightley"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 552}}
+{"title": "조금 취했어 (Prod. 2soo)", "artist": ["임재현"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 553}}
+{"title": "저녁 하늘", "artist": ["에일리(Ailee)"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 554}}
+{"title": "너는 나 나는 너", "artist": ["지코 (ZICO)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 555}}
+{"title": "Bad Boy", "artist": ["Red Velvet (레드벨벳)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 556}}
+{"title": "자니 (Feat. DYNAMICDUO)", "artist": ["프라이머리"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 557}}
+{"title": "알수없는 인생", "artist": ["이문세"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 558}}
+{"title": "No Make Up", "artist": ["Zion.T"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 559}}
+{"title": "공허해", "artist": ["WINNER"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 560}}
+{"title": "죽을 만큼 아파서 (Feat. 멜로우)", "artist": ["MC몽"], "tag": "이별 그리움 운동"}
+{"index": {"_index": "music", "_id": 561}}
+{"title": "Why", "artist": ["태연 (TAEYEON)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 562}}
+{"title": "She (Hidden Track No.V 1월 선정곡)", "artist": ["잔나비"], "tag": "당당한 신나는 휴식"}
+{"index": {"_index": "music", "_id": 563}}
+{"title": "가슴 시린 이야기 (Feat. 용준형 of BEAST)", "artist": ["휘성(Realslow)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 564}}
+{"title": "좋은 사람 (With 김형중)", "artist": ["김형중", "토이"], "tag": "이별 기쁨 운동"}
+{"index": {"_index": "music", "_id": 565}}
+{"title": "그대와 나, 설레임 (Feat. 소울맨)", "artist": ["어쿠스틱 콜라보"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 566}}
+{"title": "취향저격", "artist": ["iKON"], "tag": "당당한 신나는 공부"}
+{"index": {"_index": "music", "_id": 567}}
+{"title": "낙원 (Feat. 이재훈)", "artist": ["싸이 (PSY)"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 568}}
+{"title": "Rookie", "artist": ["Red Velvet (레드벨벳)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 569}}
+{"title": "고백", "artist": ["뜨거운 감자"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 570}}
+{"title": "기억의 빈자리", "artist": ["나얼"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 571}}
+{"title": "Heaven", "artist": ["에일리(Ailee)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 572}}
+{"title": "비올레타", "artist": ["IZ*ONE(아이즈원)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 573}}
+{"title": "하늘을 달리다", "artist": ["이적"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 574}}
+{"title": "Dumb Dumb", "artist": ["Red Velvet (레드벨벳)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 575}}
+{"title": "Bad", "artist": ["Christopher"], "tag": "당당한 편안한 휴식"}
+{"index": {"_index": "music", "_id": 576}}
+{"title": "동경소녀", "artist": ["버스커 버스커"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 577}}
+{"title": "아름다워", "artist": ["창모(CHANGMO)"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 578}}
+{"title": "그리워 그리워", "artist": ["노을"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 579}}
+{"title": "시간의 바깥", "artist": ["아이유(IU)"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 580}}
+{"title": "내 생에 아름다운", "artist": ["케이윌"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 581}}
+{"title": "지친 하루", "artist": ["윤종신", "곽진언", "김필"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 582}}
+{"title": "Try Everything", "artist": ["Shakira"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 583}}
+{"title": "그땐 그땐 그땐", "artist": ["슈프림팀(Supreme Team)", "영준"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 584}}
+{"title": "멍청이(twit)", "artist": ["화사(Hwa Sa)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 585}}
+{"title": "붕붕 (Feat. 식케이) (Prod. GroovyRoom)", "artist": ["김하온(HAON)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 586}}
+{"title": "8282", "artist": ["다비치"], "tag": "당당한 신나는 휴식"}
+{"index": {"_index": "music", "_id": 587}}
+{"title": "정류장", "artist": ["버스커 버스커"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 588}}
+{"title": "연예인", "artist": ["싸이 (PSY)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 589}}
+{"title": "답장", "artist": ["김동률"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 590}}
+{"title": "꽃 길", "artist": ["BIGBANG (빅뱅)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 591}}
+{"title": "Fine", "artist": ["태연 (TAEYEON)"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 592}}
+{"title": "Life Goes On", "artist": ["방탄소년단"], "tag": "위로 신나는 공부"}
+{"index": {"_index": "music", "_id": 593}}
+{"title": "Don't Cry (우리 동네 음악대장)", "artist": ["하현우 (국카스텐)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 594}}
+{"title": "So Cool (쏘쿨)", "artist": ["씨스타"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 595}}
+{"title": "When We Disco (Duet with 선미)", "artist": ["박진영"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 596}}
+{"title": "미워요", "artist": ["정인"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 597}}
+{"title": "I'm Fine", "artist": ["방탄소년단"], "tag": "당당한 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 598}}
+{"title": "별 보러 갈래?", "artist": ["볼빨간사춘기"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 599}}
+{"title": "Love Never Felt So Good", "artist": ["Michael Jackson"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 600}}
+{"title": "이별택시", "artist": ["김연우"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 601}}
+{"title": "BLUE MOON (Prod. GroovyRoom)", "artist": ["효린", "창모(CHANGMO)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 602}}
+{"title": "외로움 증폭장치 (브래드 드럼 한판 쉬기)", "artist": ["버스커 버스커"], "tag": "이별 편안한 파티"}
+{"index": {"_index": "music", "_id": 603}}
+{"title": "죽어도 못 보내", "artist": ["2am"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 604}}
+{"title": "I Don't Care", "artist": ["Ed Sheeran", "Justin Bieber"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 605}}
+{"title": "우리 사랑하지 말아요", "artist": ["BIGBANG (빅뱅)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 606}}
+{"title": "Ice Cream Cake", "artist": ["Red Velvet (레드벨벳)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 607}}
+{"title": "Beautiful", "artist": ["Wanna One(워너원)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 608}}
+{"title": "One Love", "artist": ["엠씨더맥스(M.C the MAX)"], "tag": "이별 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 609}}
+{"title": "너 사용법", "artist": ["에디킴"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 610}}
+{"title": "우산", "artist": ["윤하"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 611}}
+{"title": "사랑하긴 했었나요 스쳐가는 인연이었나요 짧지않은 우리 함께했던 시간들이 자꾸 내 마음을 가둬두네", "artist": ["잔나비"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 612}}
+{"title": "New Rules", "artist": ["Dua Lipa"], "tag": "당당한 신나는 공부"}
+{"index": {"_index": "music", "_id": 613}}
+{"title": "Lion Heart", "artist": ["소녀시대 (GIRLS' GENERATION)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 614}}
+{"title": "나로 말할 것 같으면 (Yes I am)", "artist": ["마마무(Mamamoo)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 615}}
+{"title": "Everytime", "artist": ["첸(CHEN)", "펀치 (Punch)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 616}}
+{"title": "Done For Me", "artist": ["Charlie Puth", "Kehlani"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 617}}
+{"title": "슬픔활용법", "artist": ["김범수"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 618}}
+{"title": "감사", "artist": ["김동률"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 619}}
+{"title": "루팡 (Lupin)", "artist": ["카라(Kara)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 620}}
+{"title": "넘어와 (Feat. 백예린)", "artist": ["DEAN"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 621}}
+{"title": "너무너무너무", "artist": ["아이오아이 (I.O.I)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 622}}
+{"title": "Someday", "artist": ["아이유(IU)"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 623}}
+{"title": "바라만 본다", "artist": ["MSG워너비(M.O.M)"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 624}}
+{"title": "내 맘을 볼 수 있나요", "artist": ["헤이즈 (Heize)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 625}}
+{"title": "이 노래가 클럽에서 나온다면", "artist": ["우디 (Woody)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 626}}
+{"title": "광 (狂)", "artist": ["SG워너비"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 627}}
+{"title": "Smile Again", "artist": ["KCM"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 628}}
+{"title": "잠 못드는 밤 (Feat. 펀치(Punch))", "artist": ["Crush"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 629}}
+{"title": "Shape Of My Heart", "artist": ["Sting"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 630}}
+{"title": "취중진담", "artist": ["김동률"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 631}}
+{"title": "Not Today", "artist": ["방탄소년단"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 632}}
+{"title": "외톨이야", "artist": ["CNBLUE(씨엔블루)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 633}}
+{"title": "취중진담(醉中眞談)", "artist": ["전람회"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 634}}
+{"title": "가로수 그늘아래 서면", "artist": ["이문세"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 635}}
+{"title": "함께", "artist": ["노을"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 636}}
+{"title": "flex (Prod. By 기리보이)", "artist": ["기리보이", "키드밀리(Kid Milli)", "NO:EL", "스윙스(Swings)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 637}}
+{"title": "Piano Man", "artist": ["Billy Joel"], "tag": "당당한 편안한 휴식"}
+{"index": {"_index": "music", "_id": 638}}
+{"title": "So Hot", "artist": ["원더걸스"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 639}}
+{"title": "말하는 대로", "artist": ["처진 달팽이 (유재석 & 이적)"], "tag": "위로 편안한 운동"}
+{"index": {"_index": "music", "_id": 640}}
+{"title": "The Ocean (Feat. SHY Martin)", "artist": ["Mike Perry"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 641}}
+{"title": "라비앙로즈 (La Vie en Rose)", "artist": ["IZ*ONE(아이즈원)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 642}}
+{"title": "1도 없어", "artist": ["에이핑크(Apink)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 643}}
+{"title": "사랑합니다...", "artist": ["팀"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 644}}
+{"title": "Side To Side (Feat. Nicki Minaj)", "artist": ["Ariana Grande"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 645}}
+{"title": "소리쳐", "artist": ["이승철"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 646}}
+{"title": "가끔", "artist": ["Crush"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 647}}
+{"title": "Kiss The Rain", "artist": ["이루마"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 648}}
+{"title": "싸운날", "artist": ["볼빨간사춘기"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 649}}
+{"title": "날 그만 잊어요", "artist": ["거미"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 650}}
+{"title": "아주 NICE", "artist": ["세븐틴"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 651}}
+{"title": "My Destiny", "artist": ["린"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 652}}
+{"title": "Aqua Man", "artist": ["빈지노 (Beenzino)"], "tag": "위로 신나는 파티"}
+{"index": {"_index": "music", "_id": 653}}
+{"title": "불치병 (Feat.Masta Wu)", "artist": ["휘성(Realslow)"], "tag": "연인 신나는 파티"}
+{"index": {"_index": "music", "_id": 654}}
+{"title": "Answer : Love Myself", "artist": ["방탄소년단"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 655}}
+{"title": "? (물음표) (Feat. 최자 of 다이나믹듀오, Zion.T)", "artist": ["프라이머리"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 656}}
+{"title": "미인(美人)", "artist": ["이기찬"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 657}}
+{"title": "첫 눈", "artist": ["EXO"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 658}}
+{"title": "Don't Wanna Know", "artist": ["Maroon 5"], "tag": "연인 잔잔한 공부"}
+{"index": {"_index": "music", "_id": 659}}
+{"title": "사계 (하루살이)", "artist": ["엠씨더맥스(M.C the MAX)"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 660}}
+{"title": "가질 수 없는 너", "artist": ["뱅크"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 661}}
+{"title": "A Step You Can't Take Back", "artist": ["Keira Knightley"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 662}}
+{"title": "Into the Unknown", "artist": ["Idina Menzel", "Aurora"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 663}}
+{"title": "신촌을 못가", "artist": ["포스트맨"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 664}}
+{"title": "LUV", "artist": ["에이핑크(Apink)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 665}}
+{"title": "Savage Love (Laxed - Siren Beat) (BTS Remix)", "artist": ["Jawsh 685", "Jason Derulo", "방탄소년단"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 666}}
+{"title": "회상 (December)", "artist": ["터보(Turbo)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 667}}
+{"title": "아로하", "artist": ["쿨(COOL)"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 668}}
+{"title": "띵 (Prod. By 기리보이)", "artist": ["Jvcki Wai", "양홍원", "Osshun Gum", "한요한"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 669}}
+{"title": "결혼까지 생각했어", "artist": ["휘성(Realslow)"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 670}}
+{"title": "남자답게", "artist": ["플라이 투 더 스카이"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 671}}
+{"title": "12월의 기적 (Miracles in December)", "artist": ["EXO"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 672}}
+{"title": "미안해", "artist": ["양다일"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 673}}
+{"title": "나랑 같이 걸을래 (바른연애 길잡이 X 적재)", "artist": ["적재"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 674}}
+{"title": "워커홀릭", "artist": ["볼빨간사춘기"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 675}}
+{"title": "Girls Like You (Cardi B Version) (Feat. Cardi B)", "artist": ["Maroon 5"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 676}}
+{"title": "못해 (Feat. 美)", "artist": ["포맨(4MEN)"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 677}}
+{"title": "When We Were Young", "artist": ["Adele"], "tag": "연인 편안한 파티"}
+{"index": {"_index": "music", "_id": 678}}
+{"title": "Cry Cry", "artist": ["티아라(T-ara)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 679}}
+{"title": "상상더하기", "artist": ["라붐(LABOUM)"], "tag": "이별 기쁨 운동"}
+{"index": {"_index": "music", "_id": 680}}
+{"title": "Paris", "artist": ["The Chainsmokers"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 681}}
+{"title": "헤픈 우연", "artist": ["헤이즈 (Heize)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 682}}
+{"title": "말리꽃", "artist": ["이승철"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 683}}
+{"title": "Warm On A Cold Night", "artist": ["HONNE"], "tag": "위로 편안한 운동"}
+{"index": {"_index": "music", "_id": 684}}
+{"title": "사랑은... 향기를 남기고", "artist": ["테이"], "tag": "이별 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 685}}
+{"title": "24K Magic", "artist": ["Bruno Mars"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 686}}
+{"title": "Trouble Maker", "artist": ["트러블메이커(Trouble Maker)"], "tag": "당당한 신나는 휴식"}
+{"index": {"_index": "music", "_id": 687}}
+{"title": "I Feel It Coming (Feat. Daft Punk)", "artist": ["The Weeknd"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 688}}
+{"title": "STAY", "artist": ["BLACKPINK"], "tag": "이별 슬픔 공부"}
+{"index": {"_index": "music", "_id": 689}}
+{"title": "Like A Fool", "artist": ["Keira Knightley"], "tag": "이별 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 690}}
+{"title": "오랜만이야", "artist": ["임창정"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 691}}
+{"title": "Lovey-Dovey", "artist": ["티아라(T-ara)"], "tag": "당당한 기쁨 운동"}
+{"index": {"_index": "music", "_id": 692}}
+{"title": "Be My Baby", "artist": ["원더걸스"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 693}}
+{"title": "향수", "artist": ["버스커 버스커"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 694}}
+{"title": "가을 안부", "artist": ["먼데이키즈(Monday Kiz)"], "tag": "이별 슬픔 공부"}
+{"index": {"_index": "music", "_id": 695}}
+{"title": "그립고 그립고 그립다", "artist": ["케이윌"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 696}}
+{"title": "광대 (Feat. BMK)", "artist": ["리쌍(LeeSSang)"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 697}}
+{"title": "Be Be Your Love", "artist": ["Rachael Yamagata"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 698}}
+{"title": "다섯 번째 계절 (SSFWL)", "artist": ["오마이걸(OH MY GIRL)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 699}}
+{"title": "가을밤 떠난 너", "artist": ["케이시(Kassy)"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 700}}
+{"title": "해변의 여인", "artist": ["쿨(COOL)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 701}}
+{"title": "소나기", "artist": ["아이오아이 (I.O.I)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 702}}
+{"title": "MONSTER", "artist": ["BIGBANG (빅뱅)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 703}}
+{"title": "Ugly", "artist": ["2NE1"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 704}}
+{"title": "휠릴리", "artist": ["이수영"], "tag": "연인 그리움 공부"}
+{"index": {"_index": "music", "_id": 705}}
+{"title": "내 눈물 모아", "artist": ["휘인(Whee In)"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 706}}
+{"title": "인연 (Live)", "artist": ["이선희"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 707}}
+{"title": "A Higher Place", "artist": ["Adam Levine"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 708}}
+{"title": "생각이나", "artist": ["부활"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 709}}
+{"title": "FIESTA", "artist": ["IZ*ONE(아이즈원)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 710}}
+{"title": "유리구슬 (Glass Bead)", "artist": ["여자친구(GFRIEND)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 711}}
+{"title": "나였으면", "artist": ["나윤권"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 712}}
+{"title": "그때의 나, 그때의 우리", "artist": ["어반자카파"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 713}}
+{"title": "사랑의 배터리", "artist": ["홍진영"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 714}}
+{"title": "손대지마", "artist": ["에일리(Ailee)"], "tag": "이별 신나는 휴식"}
+{"index": {"_index": "music", "_id": 715}}
+{"title": "너를 위해", "artist": ["첸(CHEN)", "백현(BAEKHYUN)", "시우민 (XIUMIN)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 716}}
+{"title": "봄을 그리다", "artist": ["어반자카파"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 717}}
+{"title": "이상형", "artist": ["버스커 버스커"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 718}}
+{"title": "애상", "artist": ["10CM"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 719}}
+{"title": "기억상실", "artist": ["거미"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 720}}
+{"title": "하기 힘든 말", "artist": ["이승기"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 721}}
+{"title": "낙하 (with 아이유)", "artist": ["AKMU(악뮤)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 722}}
+{"title": "Fiction", "artist": ["비스트(Beast)"], "tag": "연인 신나는 휴식"}
+{"index": {"_index": "music", "_id": 723}}
+{"title": "돌덩이", "artist": ["하현우 (국카스텐)"], "tag": "당당한 신나는 휴식"}
+{"index": {"_index": "music", "_id": 724}}
+{"title": "The Blower's Daughter", "artist": ["Damien Rice"], "tag": "연인 잔잔한 운동"}
+{"index": {"_index": "music", "_id": 725}}
+{"title": "If You", "artist": ["에일리(Ailee)"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 726}}
+{"title": "Artist", "artist": ["지코 (ZICO)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 727}}
+{"title": "Anpanman", "artist": ["방탄소년단"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 728}}
+{"title": "사랑..그게 뭔데", "artist": ["양파"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 729}}
+{"title": "당신만이", "artist": ["곽진언", "김필", "임도혁"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 730}}
+{"title": "Love Love Love (Feat. Yoong Jin of Casker)", "artist": ["에픽하이 (EPIK HIGH)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 731}}
+{"title": "나팔바지", "artist": ["싸이 (PSY)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 732}}
+{"title": "그댈 마주하는건 힘들어 (그마힘)", "artist": ["버스커 버스커"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 733}}
+{"title": "씨스루 (Feat. 개코, Zion.T)", "artist": ["프라이머리"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 734}}
+{"title": "사랑은 봄비처럼... 이별은 겨울비처럼", "artist": ["임현정"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 735}}
+{"title": "산다는 건 (Cheer Up)", "artist": ["홍진영"], "tag": "위로 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 736}}
+{"title": "내가 제일 잘 나가", "artist": ["2NE1"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 737}}
+{"title": "Way Back Into Love", "artist": ["Haley Bennett", "Hugh Grant"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 738}}
+{"title": "내일 할 일", "artist": ["윤종신", "성시경"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 739}}
+{"title": "사랑", "artist": ["임재범"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 740}}
+{"title": "WANNABE", "artist": ["ITZY(있지)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 741}}
+{"title": "Bad Girl Good Girl", "artist": ["miss A"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 742}}
+{"title": "이럴거면", "artist": ["아이비"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 743}}
+{"title": "내 눈물 모아", "artist": ["서지원"], "tag": "연인 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 744}}
+{"title": "Don't Know What To Do", "artist": ["BLACKPINK"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 745}}
+{"title": "Yellow", "artist": ["Coldplay"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 746}}
+{"title": "Okey Dokey", "artist": ["MINO (송민호)", "지코 (ZICO)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 747}}
+{"title": "사랑은... 하나다", "artist": ["테이"], "tag": "위로 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 748}}
+{"title": "Forever (Prod. by GRAY)", "artist": ["비와이(BewhY)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 749}}
+{"title": "PARTY", "artist": ["소녀시대 (GIRLS' GENERATION)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 750}}
+{"title": "내가 너의 곁에 잠시 살았다는 걸", "artist": ["김연우"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 751}}
+{"title": "MILLIONS", "artist": ["WINNER"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 752}}
+{"title": "Round and round (Feat. 한수지)", "artist": ["헤이즈 (Heize)"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 753}}
+{"title": "회상", "artist": ["장범준"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 754}}
+{"title": "신용재", "artist": ["하은(포맨)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 755}}
+{"title": "7 Years", "artist": ["Lukas Graham"], "tag": "위로 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 756}}
+{"title": "Feel Special", "artist": ["TWICE(트와이스)"], "tag": "당당한 기쁨 파티"}
+{"index": {"_index": "music", "_id": 757}}
+{"title": "감아 (Feat. Crush)", "artist": ["로꼬"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 758}}
+{"title": "오래된 노래", "artist": ["김동률"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 759}}
+{"title": "사랑과 전쟁 (Narr. 하하)", "artist": ["다비치"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 760}}
+{"title": "Best Of Me", "artist": ["방탄소년단"], "tag": "연인 편안한 운동"}
+{"index": {"_index": "music", "_id": 761}}
+{"title": "어쩌다", "artist": ["브라운아이드걸스"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 762}}
+{"title": "먼지가 되어", "artist": ["로이킴", "정준영"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 763}}
+{"title": "커플", "artist": ["젝스키스"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 764}}
+{"title": "그때 그 아인", "artist": ["김필"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 765}}
+{"title": "나는 나비", "artist": ["YB"], "tag": "당당한 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 766}}
+{"title": "그대를 잊는다는 건", "artist": ["다비치"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 767}}
+{"title": "VVS (Feat. JUSTHIS) (Prod. GroovyRoom)", "artist": ["미란이(Mirani)", "먼치맨(MUNCHMAN)", "쿤디판다(Khundi Panda)", "머쉬베놈(MUSHVENOM)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 768}}
+{"title": "예뻤어", "artist": ["DAY6(데이식스)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 769}}
+{"title": "Bounce", "artist": ["조용필"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 770}}
+{"title": "술 한잔 해요", "artist": ["지아"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 771}}
+{"title": "Maria", "artist": ["김아중"], "tag": "당당한 신나는 휴식"}
+{"index": {"_index": "music", "_id": 772}}
+{"title": "Love Is an Open Door (From \"Frozen\"/Soundtrack Version)", "artist": ["Santino Fontana"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 773}}
+{"title": "LATATA", "artist": ["(여자) 아이들"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 774}}
+{"title": "If I Can't Have You", "artist": ["Shawn Mendes"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 775}}
+{"title": "안부 (Duet. 나윤권)", "artist": ["별"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 776}}
+{"title": "야상곡 (夜想曲)", "artist": ["김윤아"], "tag": "위로 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 777}}
+{"title": "시청 앞 지하철 역에서", "artist": ["곽진언"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 778}}
+{"title": "Officially Missing You", "artist": ["긱스(Geeks)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 779}}
+{"title": "오늘", "artist": ["오왠(O.WHEN)"], "tag": "이별 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 780}}
+{"title": "너에게 난, 나에게 넌", "artist": ["미도와 파라솔"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 781}}
+{"title": "Kissing You", "artist": ["소녀시대 (GIRLS' GENERATION)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 782}}
+{"title": "사랑아", "artist": ["The One (더원)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 783}}
+{"title": "소격동", "artist": ["아이유(IU)"], "tag": "위로 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 784}}
+{"title": "Butterfly", "artist": ["방탄소년단"], "tag": "위로 신나는 휴식"}
+{"index": {"_index": "music", "_id": 785}}
+{"title": "Why So Lonely", "artist": ["원더걸스"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 786}}
+{"title": "그여자", "artist": ["백지영"], "tag": "연인 그리움 파티"}
+{"index": {"_index": "music", "_id": 787}}
+{"title": "#첫사랑", "artist": ["볼빨간사춘기"], "tag": "연인 신나는 파티"}
+{"index": {"_index": "music", "_id": 788}}
+{"title": "come out and play", "artist": ["Billie Eilish"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 789}}
+{"title": "Do You Want To Build A Snowman? (삼성전자 갤럭시 노트 4 & 노트 엣지 2015 신년 광고 광고 삽입곡)", "artist": ["Kristen Bell"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 790}}
+{"title": "Get Lucky (Feat. Pharrell Williams, Nile Rodgers)", "artist": ["Daft Punk"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 791}}
+{"title": "바람이 불어오는 곳", "artist": ["제이레빗(J Rabbit)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 792}}
+{"title": "사랑하기 때문에", "artist": ["유재하"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 793}}
+{"title": "부디", "artist": ["심규선(Lucia)", "에피톤 프로젝트(Epitone Project)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 794}}
+{"title": "흰눈", "artist": ["이루"], "tag": "이별 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 795}}
+{"title": "낙인", "artist": ["임재범"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 796}}
+{"title": "같이 걸을까", "artist": ["이적"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 797}}
+{"title": "Salut D'Amour (Edward Elgar)", "artist": ["Yuhki Kuramoto"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 798}}
+{"title": "있잖아", "artist": ["폴킴"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 799}}
+{"title": "Too Good At Goodbyes", "artist": ["Sam Smith"], "tag": "연인 편안한 파티"}
+{"index": {"_index": "music", "_id": 800}}
+{"title": "눈물샤워 (Feat. 에일리)", "artist": ["배치기"], "tag": "이별 신나는 휴식"}
+{"index": {"_index": "music", "_id": 801}}
+{"title": "U&I", "artist": ["에일리(Ailee)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 802}}
+{"title": "비밀번호 486", "artist": ["윤하"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 803}}
+{"title": "심장이 없어", "artist": ["에이트(8Eight)"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 804}}
+{"title": "Don't Look Back in Anger (Remastered)", "artist": ["Oasis"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 805}}
+{"title": "Replay", "artist": ["김동률"], "tag": "연인 신나는 파티"}
+{"index": {"_index": "music", "_id": 806}}
+{"title": "아낙네", "artist": ["MINO (송민호)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 807}}
+{"title": "고백(Go Back) (Feat.정인)", "artist": ["다이나믹 듀오"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 808}}
+{"title": "서울의 달", "artist": ["김건모"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 809}}
+{"title": "회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)", "artist": ["sokodomo"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 810}}
+{"title": "소원을 말해봐 (Genie)", "artist": ["소녀시대 (GIRLS' GENERATION)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 811}}
+{"title": "봄인가 봐 (Spring Love)", "artist": ["에릭남(Eric Nam)", "웬디 (WENDY)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 812}}
+{"title": "그녀와의 이별", "artist": ["김현정"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 813}}
+{"title": "Run Devil Run", "artist": ["소녀시대 (GIRLS' GENERATION)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 814}}
+{"title": "비와 당신", "artist": ["이무진"], "tag": "연인 그리움 운동"}
+{"index": {"_index": "music", "_id": 815}}
+{"title": "짧은 치마 (Miniskirt)", "artist": ["AOA"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 816}}
+{"title": "To Heaven (천국으로 보낸 편지)", "artist": ["조성모"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 817}}
+{"title": "Love Of My Life (Remastered 2011)", "artist": ["Queen"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 818}}
+{"title": "미친 사랑의 노래", "artist": ["씨야(SeeYa)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 819}}
+{"title": "프리지아", "artist": ["볼빨간사춘기"], "tag": "연인 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 820}}
+{"title": "사뿐사뿐", "artist": ["AOA"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 821}}
+{"title": "눈꽃", "artist": ["거미"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 822}}
+{"title": "너에게 전하는 아홉 가지 바램", "artist": ["KCM"], "tag": "연인 슬픔 파티"}
+{"index": {"_index": "music", "_id": 823}}
+{"title": "View", "artist": ["SHINee (샤이니)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 824}}
+{"title": "겨울 고백", "artist": ["성시경", "박효신", "서인국", "VIXX(빅스)", "여동생"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 825}}
+{"title": "Come Back Home", "artist": ["2NE1"], "tag": "이별 편안한 휴식"}
+{"index": {"_index": "music", "_id": 826}}
+{"title": "Titanium (Feat. Sia)", "artist": ["David Guetta"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 827}}
+{"title": "한번 더 이별", "artist": ["성시경"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 828}}
+{"title": "너나 해 (Egotistic)", "artist": ["마마무(Mamamoo)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 829}}
+{"title": "This Is What You Came For (Feat. Rihanna)", "artist": ["Calvin Harris"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 830}}
+{"title": "사람냄새", "artist": ["정인", "개리"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 831}}
+{"title": "Juice", "artist": ["Lizzo"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 832}}
+{"title": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")", "artist": ["Justin Timberlake"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 833}}
+{"title": "쓰담쓰담", "artist": ["10CM"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 834}}
+{"title": "Grace", "artist": ["이수영"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 835}}
+{"title": "처음처럼", "artist": ["엠씨더맥스(M.C the MAX)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 836}}
+{"title": "시간아 멈춰라", "artist": ["다비치"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 837}}
+{"title": "Candy (캔디)", "artist": ["H.O.T."], "tag": "연인 신나는 파티"}
+{"index": {"_index": "music", "_id": 838}}
+{"title": "전활 거네", "artist": ["버스커 버스커"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 839}}
+{"title": "Groovin'", "artist": ["Jeff Bernat"], "tag": "연인 그리움 운동"}
+{"index": {"_index": "music", "_id": 840}}
+{"title": "idontwannabeyouanymore", "artist": ["Billie Eilish"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 841}}
+{"title": "너 없인 안 된다", "artist": ["비투비"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 842}}
+{"title": "바람만바람만", "artist": ["김종국", "SG워너비"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 843}}
+{"title": "너에게 난, 나에게 넌", "artist": ["자전거 탄 풍경"], "tag": "연인 신나는 휴식"}
+{"index": {"_index": "music", "_id": 844}}
+{"title": "이러지마 제발 (Please Don't...)", "artist": ["케이윌"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 845}}
+{"title": "불티 (Spark)", "artist": ["태연 (TAEYEON)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 846}}
+{"title": "Why Don't You Know (Feat. 넉살)", "artist": ["청하"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 847}}
+{"title": "Snapping", "artist": ["청하"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 848}}
+{"title": "복숭아", "artist": ["아이유(IU)"], "tag": "연인 잔잔한 운동"}
+{"index": {"_index": "music", "_id": 849}}
+{"title": "LOVE ME RIGHT", "artist": ["EXO"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 850}}
+{"title": "술이 달다 (Feat. Crush)", "artist": ["에픽하이 (EPIK HIGH)"], "tag": "연인 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 851}}
+{"title": "아모르 파티", "artist": ["김연자"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 852}}
+{"title": "착해 빠졌어 (Stupid in love)", "artist": ["소유 (SOYOU)", "매드 클라운(Mad Clown)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 853}}
+{"title": "사랑아", "artist": ["장윤정"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 854}}
+{"title": "골목길 어귀에서", "artist": ["버스커 버스커"], "tag": "연인 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 855}}
+{"title": "Weekend", "artist": ["태연 (TAEYEON)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 856}}
+{"title": "소나기 (Feat. 10cm)", "artist": ["용준형"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 857}}
+{"title": "Palace (애플 크리스마스 광고 삽입곡)", "artist": ["Sam Smith"], "tag": "이별 잔잔한 공부"}
+{"index": {"_index": "music", "_id": 858}}
+{"title": "Abracadabra", "artist": ["브라운아이드걸스"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 859}}
+{"title": "I Love You", "artist": ["AKMU(악뮤)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 860}}
+{"title": "All Of The Stars", "artist": ["Ed Sheeran"], "tag": "위로 잔잔한 공부"}
+{"index": {"_index": "music", "_id": 861}}
+{"title": "광화문 연가", "artist": ["이문세"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 862}}
+{"title": "Jenga (Feat. Gaeko)", "artist": ["헤이즈 (Heize)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 863}}
+{"title": "이젠 잊기로 해요", "artist": ["여은"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 864}}
+{"title": "HEAVEN", "artist": ["로이킴", "김이지"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 865}}
+{"title": "i'm so tired...", "artist": ["Lauv", "Troye Sivan"], "tag": "연인 잔잔한 운동"}
+{"index": {"_index": "music", "_id": 866}}
+{"title": "I LUV IT", "artist": ["싸이 (PSY)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 867}}
+{"title": "나야 나 (PICK ME)", "artist": ["PRODUCE 101"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 868}}
+{"title": "Everything", "artist": ["Michael Buble"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 869}}
+{"title": "두사랑 (Feat. 매드클라운)", "artist": ["다비치"], "tag": "이별 신나는 운동"}
+{"index": {"_index": "music", "_id": 870}}
+{"title": "주인공", "artist": ["선미"], "tag": "연인 슬픔 운동"}
+{"index": {"_index": "music", "_id": 871}}
+{"title": "Romance", "artist": ["Yuhki Kuramoto"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 872}}
+{"title": "I Love You", "artist": ["2NE1"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 873}}
+{"title": "Crescendo (크레셴도)", "artist": ["AKMU(악뮤)"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 874}}
+{"title": "Heartbreaker", "artist": ["G-DRAGON"], "tag": "당당한 신나는 휴식"}
+{"index": {"_index": "music", "_id": 875}}
+{"title": "Baby (Feat. Ludacris)", "artist": ["Justin Bieber"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 876}}
+{"title": "예술이야", "artist": ["싸이 (PSY)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 877}}
+{"title": "맨정신", "artist": ["BIGBANG (빅뱅)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 878}}
+{"title": "예뻐졌다 (Feat. 지코 of Block B)", "artist": ["박보람"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 879}}
+{"title": "제주도의 푸른 밤", "artist": ["성시경"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 880}}
+{"title": "아무리 생각해도 난 너를", "artist": ["스윗소로우(SWEET SORROW)"], "tag": "이별 그리움 파티"}
+{"index": {"_index": "music", "_id": 881}}
+{"title": "널 생각해", "artist": ["원 모어 찬스(one more chance)"], "tag": "연인 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 882}}
+{"title": "Magic Shop", "artist": ["방탄소년단"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 883}}
+{"title": "눈물이 뚝뚝", "artist": ["케이윌"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 884}}
+{"title": "감사", "artist": ["김동률"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 885}}
+{"title": "대낮에 한 이별 (Feat. 선예 of Wonder Girls)", "artist": ["박진영"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 886}}
+{"title": "노래가 늘었어", "artist": ["에일리(Ailee)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 887}}
+{"title": "일상으로의 초대 (우리 동네 음악대장) (Bonus Track)", "artist": ["하현우 (국카스텐)"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 888}}
+{"title": "고고베베 (gogobebe)", "artist": ["마마무(Mamamoo)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 889}}
+{"title": "If You Wonder", "artist": ["Jeff Bernat"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 890}}
+{"title": "Rain", "artist": ["이적"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 891}}
+{"title": "ICY", "artist": ["ITZY(있지)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 892}}
+{"title": "이 별", "artist": ["길구봉구"], "tag": "이별 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 893}}
+{"title": "가슴아 그만해", "artist": ["엠씨더맥스(M.C the MAX)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 894}}
+{"title": "Count On Me", "artist": ["Bruno Mars"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 895}}
+{"title": "..안 되나요... (화양연화)", "artist": ["휘성(Realslow)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 896}}
+{"title": "아마도 그건", "artist": ["Crush", "로꼬"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 897}}
+{"title": "좋아 (JOAH)", "artist": ["박재범"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 898}}
+{"title": "내꺼하자", "artist": ["인피니트"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 899}}
+{"title": "Alone", "artist": ["Alan Walker"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 900}}
+{"title": "Painkiller", "artist": ["Ruel"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 901}}
+{"title": "나를 사랑했던 사람아", "artist": ["허각"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 902}}
+{"title": "니가 보고싶은 밤", "artist": ["윤딴딴"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 903}}
+{"title": "봄바람 (Feat. 나얼)", "artist": ["이문세"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 904}}
+{"title": "사월이 지나면 우리 헤어져요 (Beautiful goodbye)", "artist": ["첸(CHEN)"], "tag": "연인 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 905}}
+{"title": "I'm Yours", "artist": ["Jason Mraz"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 906}}
+{"title": "Anymotion (애니콜 광고음악)", "artist": ["이효리"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 907}}
+{"title": "3! 4!", "artist": ["룰라"], "tag": "이별 신나는 파티"}
+{"index": {"_index": "music", "_id": 908}}
+{"title": "잘할 걸", "artist": ["버스커 버스커"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 909}}
+{"title": "Only One", "artist": ["보아(BoA)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 910}}
+{"title": "도망가자 (Run With Me)", "artist": ["선우정아"], "tag": "위로 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 911}}
+{"title": "여보세요", "artist": ["뉴이스트"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 912}}
+{"title": "12:45 (Stripped)", "artist": ["Etham"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 913}}
+{"title": "편지", "artist": ["김광진"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 914}}
+{"title": "Little Star", "artist": ["스탠딩 에그(Standing Egg)"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 915}}
+{"title": "운전만해 (We Ride)", "artist": ["브레이브걸스(Brave Girls)"], "tag": "당당한 기쁨 파티"}
+{"index": {"_index": "music", "_id": 916}}
+{"title": "힘든 건 사랑이 아니다", "artist": ["임창정"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 917}}
+{"title": "IDGAF", "artist": ["Dua Lipa"], "tag": "이별 편안한 공부"}
+{"index": {"_index": "music", "_id": 918}}
+{"title": "Love Me Like You Do (From \"Fifty Shades Of Grey\")", "artist": ["Ellie Goulding"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 919}}
+{"title": "커피 한 잔 할래요", "artist": ["폴킴"], "tag": "연인 기쁨 파티"}
+{"index": {"_index": "music", "_id": 920}}
+{"title": "여름밤에 우린", "artist": ["스탠딩 에그(Standing Egg)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 921}}
+{"title": "파도", "artist": ["유엔 (UN)"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 922}}
+{"title": "YESTERDAY", "artist": ["블락비(Block B)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 923}}
+{"title": "장마", "artist": ["정인"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 924}}
+{"title": "우리 그만하자", "artist": ["로이킴"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 925}}
+{"title": "여름 안에서", "artist": ["듀스"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 926}}
+{"title": "Darling", "artist": ["걸스데이(Girl's Day)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 927}}
+{"title": "Twinkle", "artist": ["소녀시대-태티서 (Girls' Generation-TTS)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 928}}
+{"title": "1,2,3,4 (원,투,쓰리,포)", "artist": ["이하이"], "tag": "이별 신나는 파티"}
+{"index": {"_index": "music", "_id": 929}}
+{"title": "이 여름 Summer", "artist": ["쿨(COOL)"], "tag": "이별 그리움 운동"}
+{"index": {"_index": "music", "_id": 930}}
+{"title": "Bangarang (Feat. Sirah)", "artist": ["Skrillex"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 931}}
+{"title": "겨울을 걷는다", "artist": ["윤딴딴"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 932}}
+{"title": "Counting Stars", "artist": ["OneRepublic"], "tag": "연인 편안한 운동"}
+{"index": {"_index": "music", "_id": 933}}
+{"title": "Tears", "artist": ["소찬휘"], "tag": "이별 그리움 운동"}
+{"index": {"_index": "music", "_id": 934}}
+{"title": "다시 너를", "artist": ["매드 클라운(Mad Clown)", "김나영"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 935}}
+{"title": "Text Me Merry Christmas (Feat. Kristen Bell)", "artist": ["Straight No Chaser"], "tag": "연인 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 936}}
+{"title": "사랑 안해", "artist": ["백지영"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 937}}
+{"title": "사랑은 아프려고 하는 거죠", "artist": ["엠씨더맥스(M.C the MAX)"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 938}}
+{"title": "사랑하자", "artist": ["SG워너비"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 939}}
+{"title": "Stuck with U", "artist": ["Ariana Grande", "Justin Bieber"], "tag": "연인 편안한 운동"}
+{"index": {"_index": "music", "_id": 940}}
+{"title": "고백", "artist": ["정준일"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 941}}
+{"title": "사랑에 빠졌죠 (당신만이)", "artist": ["장범준"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 942}}
+{"title": "중독 (Overdose)", "artist": ["EXO-K"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 943}}
+{"title": "너도 그냥 날 놓아주면 돼", "artist": ["윤건"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 944}}
+{"title": "LOVE", "artist": ["마마무(Mamamoo)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 945}}
+{"title": "사랑의 시작은 고백에서부터", "artist": ["김범수"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 946}}
+{"title": "I Like Me Better", "artist": ["Lauv"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 947}}
+{"title": "U-Go-Girl (Feat. 낯선)", "artist": ["이효리"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 948}}
+{"title": "그 사랑", "artist": ["마커스"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 949}}
+{"title": "코끝에 겨울", "artist": ["어반자카파"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 950}}
+{"title": "헤어지는 중입니다", "artist": ["이은미"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 951}}
+{"title": "U R", "artist": ["태연 (TAEYEON)"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 952}}
+{"title": "첫 이별 그날 밤", "artist": ["아이유(IU)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 953}}
+{"title": "Make It Right", "artist": ["방탄소년단"], "tag": "연인 신나는 공부"}
+{"index": {"_index": "music", "_id": 954}}
+{"title": "까탈레나 (Catallena)", "artist": ["오렌지캬라멜(Orange Caramel)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 955}}
+{"title": "얼굴 찌푸리지 말아요", "artist": ["하이라이트(Highlight)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 956}}
+{"title": "원더우먼", "artist": ["다비치", "씨야(SeeYa)", "티아라(T-ara)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 957}}
+{"title": "아니", "artist": ["거미"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 958}}
+{"title": "BUNGEE (Fall in Love)", "artist": ["오마이걸(OH MY GIRL)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 959}}
+{"title": "나랑 아니면", "artist": ["검정치마"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 960}}
+{"title": "제발", "artist": ["김범수"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 961}}
+{"title": "Watermelon Sugar", "artist": ["Harry Styles"], "tag": "연인 편안한 휴식"}
+{"index": {"_index": "music", "_id": 962}}
+{"title": "흔한 노래", "artist": ["임창정"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 963}}
+{"title": "세월이 가면", "artist": ["기현(Kihyun)"], "tag": "이별 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 964}}
+{"title": "여성시대", "artist": ["다비치", "씨야(SeeYa)", "티아라(T-ara)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 965}}
+{"title": "그때 또 다시 (Again)", "artist": ["임창정"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 966}}
+{"title": "어떻게 지내 (Prod. By VAN.C)", "artist": ["오반"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 967}}
+{"title": "I Love You", "artist": ["포지션(임재욱)"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 968}}
+{"title": "RE-BYE", "artist": ["AKMU(악뮤)"], "tag": "당당한 기쁨 휴식"}
+{"index": {"_index": "music", "_id": 969}}
+{"title": "안녕 나의 사랑", "artist": ["성시경"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 970}}
+{"title": "체념 후(後)", "artist": ["빅마마"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 971}}
+{"title": "어깨", "artist": ["소유 (SOYOU)", "권정열"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 972}}
+{"title": "LOVE", "artist": ["브라운아이드걸스"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 973}}
+{"title": "다시 만난 세계 (Into The New World)", "artist": ["소녀시대 (GIRLS' GENERATION)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 974}}
+{"title": "안녕", "artist": ["효린"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 975}}
+{"title": "Officially missing you, too", "artist": ["긱스(Geeks)", "소유 (SOYOU)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 976}}
+{"title": "소녀", "artist": ["이문세"], "tag": "이별 기쁨 파티"}
+{"index": {"_index": "music", "_id": 977}}
+{"title": "얼음들", "artist": ["AKMU(악뮤)"], "tag": "위로 편안한 휴식"}
+{"index": {"_index": "music", "_id": 978}}
+{"title": "X Song", "artist": ["볼빨간사춘기"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 979}}
+{"title": "Falling", "artist": ["존 박"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 980}}
+{"title": "홀로", "artist": ["이하이"], "tag": "당당한 그리움 파티"}
+{"index": {"_index": "music", "_id": 981}}
+{"title": "발자국", "artist": ["먼데이키즈(Monday Kiz)"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 982}}
+{"title": "눈물 (Feat. 유진 of 더 씨야)", "artist": ["리쌍(LeeSSang)"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 983}}
+{"title": "가을밤에 든 생각", "artist": ["잔나비"], "tag": "이별 슬픔 휴식"}
+{"index": {"_index": "music", "_id": 984}}
+{"title": "제발", "artist": ["이소라"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 985}}
+{"title": "Feels (Feat. Pharrell Williams, Katy Perry, Big Sean)", "artist": ["Calvin Harris"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 986}}
+{"title": "뜨거운 안녕 (Vocal 이지형)", "artist": ["토이", "이지형"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 987}}
+{"title": "걱정말아요 그대", "artist": ["곽진언", "김필"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 988}}
+{"title": "봄날, 벚꽃 그리고 너", "artist": ["에피톤 프로젝트(Epitone Project)"], "tag": "위로 그리움 휴식"}
+{"index": {"_index": "music", "_id": 989}}
+{"title": "Coming Up Roses", "artist": ["Keira Knightley"], "tag": "연인 신나는 운동"}
+{"index": {"_index": "music", "_id": 990}}
+{"title": "하하하쏭", "artist": ["자우림"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 991}}
+{"title": "먼지가 되어", "artist": ["김광석"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 992}}
+{"title": "DON'T TOUCH ME", "artist": ["환불원정대"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 993}}
+{"title": "Insomnia (불면증)", "artist": ["휘성(Realslow)"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 994}}
+{"title": "P.D.A. (We Just Don't Care)", "artist": ["John Legend"], "tag": "연인 편안한 운동"}
+{"index": {"_index": "music", "_id": 995}}
+{"title": "처음처럼", "artist": ["티아라(T-ara)"], "tag": "당당한 슬픔 운동"}
+{"index": {"_index": "music", "_id": 996}}
+{"title": "차마...", "artist": ["성시경"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 997}}
+{"title": "Stay With Me", "artist": ["Sam Smith"], "tag": "위로 편안한 공부"}
+{"index": {"_index": "music", "_id": 998}}
+{"title": "그 남잔 말야", "artist": ["엠씨더맥스(M.C the MAX)"], "tag": "연인 그리움 휴식"}
+{"index": {"_index": "music", "_id": 999}}
+{"title": "넌 언제나", "artist": ["제이레빗(J Rabbit)"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 1000}}
+{"title": "사랑에 빠졌을 때", "artist": ["볼빨간사춘기"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 1001}}
+{"title": "The Greatest (Feat. Kendrick Lamar)", "artist": ["Sia"], "tag": "당당한 편안한 운동"}
+{"index": {"_index": "music", "_id": 1002}}
+{"title": "ASAP", "artist": ["STAYC(스테이씨)"], "tag": "연인 기쁨 운동"}
+{"index": {"_index": "music", "_id": 1003}}
+{"title": "세상의 약속 (하울의 움직이는 성)", "artist": ["Elizabeth Bright"], "tag": "이별 슬픔 공부"}
+{"index": {"_index": "music", "_id": 1004}}
+{"title": "눈누난나 (NUNU NANA)", "artist": ["제시(Jessi)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 1005}}
+{"title": "You And I", "artist": ["박봄(Park Bom)"], "tag": "이별 잔잔한 휴식"}
+{"index": {"_index": "music", "_id": 1006}}
+{"title": "전부 너였다", "artist": ["노을"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 1007}}
+{"title": "잊었니", "artist": ["이승철"], "tag": "이별 그리움 공부"}
+{"index": {"_index": "music", "_id": 1008}}
+{"title": "오빠차", "artist": ["인크레더블", "타블로", "지누션"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 1009}}
+{"title": "불꽃놀이 (Remember Me)", "artist": ["오마이걸(OH MY GIRL)"], "tag": "당당한 신나는 파티"}
+{"index": {"_index": "music", "_id": 1010}}
+{"title": "꽃이 핀다", "artist": ["케이윌"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 1011}}
+{"title": "빠빠빠", "artist": ["크레용팝(Crayon Pop)"], "tag": "당당한 신나는 운동"}
+{"index": {"_index": "music", "_id": 1012}}
+{"title": "나란놈이란", "artist": ["임창정"], "tag": "이별 그리움 휴식"}
+{"index": {"_index": "music", "_id": 1013}}
+{"title": "One (Feat. 지선)", "artist": ["에픽하이 (EPIK HIGH)"], "tag": "이별 그리움 휴식"}
