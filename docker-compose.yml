@@ -14,6 +14,21 @@ services:
         depends_on:
           - django
 
+    mysql_db:
+      image: mysql:8.0
+      ports:
+        - "3306:3306"
+      environment:
+        MYSQL_DATABASE: ohto_db
+        MYSQL_USER: ohto
+        MYSQL_PASSWORD: Never123
+        MYSQL_ROOT_PASSWORD: Never123
+      command:
+        - --character-set-server=utf8mb4
+        - --collation-server=utf8mb4_unicode_ci
+      volumes:
+        - ./django/dbdata:/var/lib/mysql
+
     django:
         container_name: django1
         build: ./ohto
@@ -23,3 +38,5 @@ services:
         volumes:
           - ./ohto:/srv/docker-server
           - ./log:/var/log/uwsgi
+        depends_on:
+          - mysql_db
