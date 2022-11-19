@@ -188,7 +188,6 @@ INTERNAL_IPS = [
 ]
 #Cors config
 CORS_ALLOWED_ORIGINS=[
-    "*"
 ]
 
 
