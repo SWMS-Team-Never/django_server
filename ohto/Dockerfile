@@ -11,8 +11,6 @@ ADD . /srv/django_server
 WORKDIR /srv/django_server
 
 RUN pip install --upgrade pip
-
-RUN pip install elasticsearch
 RUN pip install -r requirements.txt
 
 #EXPOSE 8000
