@@ -32,7 +32,7 @@ ALLOWED_HOSTS = [
     'ohto.kr',
     '43.200.92.0',
     'localhost',
-    '127.0.0.1'
+    '127.0.0.1',
 ]
 
 
@@ -57,8 +57,6 @@ INSTALLED_APPS = [
     #Local App
     'accounts',
     'music_demo',
-    #Elastic search
-    'search_music',
 ]
 
 MIDDLEWARE = [
