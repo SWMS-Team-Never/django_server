@@ -21,7 +21,7 @@ defusedxml==0.7.1
 Django==4.0
 django-bootstrap5==22.1
 django-cors-headers==3.13.0
-django-debug-toolbar==3.5.0
+django-debug-toolbar==3.7.0
 django-extensions==3.2.0
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.2.2
@@ -105,10 +105,4 @@ uwsgi
 elasticsearch
 elasticsearch-dsl
 django-bootstrap-v5==1.0.11
-django-bootstrap5==22.1
-django-cors-headers==3.13.0
-django-debug-toolbar==3.7.0
-django-extensions==3.2.1
-djangorestframework-simplejwt==5.2.2
-drf-spectacular==0.24.2
 elastic-transport==8.4.0
