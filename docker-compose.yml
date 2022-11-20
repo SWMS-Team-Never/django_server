@@ -33,10 +33,10 @@ services:
         container_name: django
         build: ./ohto
         image: django_server/django
+        ports:
+          - "8000:8000"
         restart: always
         command: uwsgi --ini uwsgi.ini
         volumes:
           - ./ohto:/srv/django_server
           - ./log:/var/log/uwsgi
-        depends_on:
-          - mysql_db
